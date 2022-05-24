@@ -20,7 +20,8 @@ draft: false
 
 > Presearch, a decentralized search engine powered by blockchain technology, is ready for the next big step.
 
-In less than 48 hours, Presearch will launch its mainnet, switching to a fully decentralized network run on node servers operated by the community members. We have been closely following the project development as node operators ourselves over the past year and are very excited about the launch.
+In less than 48 hours, Presearch will launch its mainnet, switching to a fully decentralized network run on node servers operated by the community members. 
+As node operators ourselves, we have been closely following the project development over the past year and are very excited about the launch.
 
 ## When is the Mainnet launch planned?
 
@@ -47,7 +48,7 @@ Our team at Bᴺ Space has been operating nodes for around a year. From our expe
   - Setup process can be improved/automated with PRE nodes API (currently limited to read only)
 - Different reliability score based on location. Best scores are coming from SF. Other locations however are also getting traffic.
   The hope is that with new Gateways, other locations will start receiving more traffic.
-- In general queries are increasing leading to more rewards.
+- In general search queries are increasing leading to more rewards.
 
 As node runners, we are most excited for:
 
