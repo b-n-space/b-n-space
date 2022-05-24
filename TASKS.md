@@ -12,3 +12,5 @@
 
 - [ ] Update welcome article
 - [ ] improve SEO: slugs, header, etc
+- [ ] Use own images
+- [ ] More links to social channels

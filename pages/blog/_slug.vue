@@ -101,11 +101,8 @@ export default {
     return {
       title: `${this.article.title} | Bᴺ Space`,
       meta: [
-        {
-          hid: 'description',
-          name: 'description',
-          content: this.article.description || '',
-        },
+        { hid: 'description', name: 'description', content: this.article.description || '' },
+        { hid: 'og-image', name: 'og:image', content: this.article.img || '' },
       ],
     }
   },
