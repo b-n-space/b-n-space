@@ -1,6 +1,6 @@
 ---
 title: Presearch final countdown to Mainnet
-description:
+description: Presearch, a decentralized search engine powered by blockchain technology, is ready for the next big step.
 img: https://pbs.twimg.com/media/FTNKTWmVEAE9l9r?format=jpg&name=large
 alt: Presearch
 author:

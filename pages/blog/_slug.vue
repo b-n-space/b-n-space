@@ -34,7 +34,6 @@
       class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
     >
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
-      <p>{{ article.description || '' }}</p>
       <p class="pb-4">Post last updated: {{ formatDate(article.updatedAt) }}</p>
       <!-- table of contents -->
       <nav v-if="article.showToc" class="pb-6">
@@ -101,6 +100,13 @@ export default {
   head() {
     return {
       title: `${this.article.title} | Bᴺ Space`,
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.article.description || '',
+        },
+      ],
     }
   },
   methods: {

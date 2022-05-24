@@ -8,6 +8,7 @@
 
 - [ ] Use authors.json to define authors. User id or username can then be used in article
 
-## Content
+## Content / Style
 
 - [ ] Update welcome article
+- [ ] improve SEO: slugs, header, etc
