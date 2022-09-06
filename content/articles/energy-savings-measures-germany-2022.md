@@ -1,7 +1,7 @@
 ---
-title: Energy asdasds ad.as 
-description: Presearch, a decentralized search engine powered by blockchain technology, is ready for the next big step.
-img: https://pbs.twimg.com/media/FTNKTWmVEAE9l9r?format=jpg&name=large
+title: Energy Saving Measures in Germany 2022 
+description: The energy-saving measures in Germany valid from.
+img: https://user-images.githubusercontent.com/1257310/188752345-86fbae42-7ebe-4a7b-91c2-a983f10ccf7e.png
 alt: Presearch
 author:
   name: B. Antonia
@@ -10,11 +10,11 @@ author:
     🦸🏼 Goal digger
   img: https://pbs.twimg.com/profile_images/1524849452304965632/quS90JQ9_400x400.jpg
 tags:
-  - search engine
-  - blockchain
-  - decentralization
+  - economy
+  - energy
+  - germany
   - presearch
-date: 2022-05-24T08:25:24.510Z
+date: 2022-09-24T08:25:24.510Z
 draft: false
 ---
 
