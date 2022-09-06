@@ -18,7 +18,32 @@ date: 2022-05-24T08:25:24.510Z
 draft: false
 ---
 
-> Presearch, a decentralized search engine powered by blockchain technology, is ready for the next big step.
+> The energy-saving measures in Germany valid from 01.09.2022
+
+
+Public buildings
+
+- Passageways such as corridors, foyers or technical rooms should no longer be heated - unless there are safety-related reasons for doing so.
+- Public buildings should only be heated to a maximum of 19 degrees. This applies when people are mainly sitting in the rooms.
+There should be no hot water for washing hands in public buildings - unless this is required for hygienic reasons.
+- Lighting of buildings and monuments for purely aesthetic or representative reasons shall be turned off.
+Illuminated advertising installations are to be switched off from 10 p.m. until 4 p.m. (B note: the time seems to be mistaken)
+
+Exceptions are made for clinics, hospitals, nursing homes, schools and day-care centers or other facilities where higher air temperatures are particularly necessary to maintain the health of the people staying there.
+
+
+## Energy-saving ordinance: The private sector
+
+- Clauses in rental agreements that stipulate a certain minimum temperature are to be temporarily suspended.
+- Landlords and utilities whose buildings are supplied with gas are to inform their tenants by September 30, 2022, about how high their energy costs could be in the coming year.
+- Landlords and utilities whose buildings are served by gas are to inform their tenants by Sept. 30 how best to save energy and how that will then affect costs.
+- Private pools, whether indoors or outdoors, should no longer be allowed to be heated with gas and electricity.
+- Another ordinance, which the cabinet has also approved, still needs the approval of the Bundesrat and is to apply for two years from October. Among other things, it provides for mandatory annual heating inspections for buildings with gas heating systems.
+
+
+
+
+
 
 In less than 48 hours, Presearch will launch its mainnet, switching to a fully decentralized network run on node servers operated by the community members. 
 As node operators ourselves, we have been closely following the project development over the past year and are very excited about the launch.
