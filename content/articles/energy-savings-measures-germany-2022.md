@@ -13,8 +13,7 @@ tags:
   - economy
   - energy
   - germany
-  - presearch
-date: 2022-09-24T08:25:24.510Z
+date: 2022-09-18T09:00:00.000Z
 draft: false
 ---
 
@@ -43,11 +42,20 @@ draft: false
 
 - Landlords and utilities whose buildings are supplied with gas are to inform their tenants by September 30, 2022, about how high their energy costs could be in the coming year.
 
-- Landlords and utilities whose buildings are served by gas are to inform their tenants by September 30 how best to save energy and how that will then affect costs.
+- Landlords and utilities whose buildings are served by gas are to inform their tenants by September 30 how to best save energy and how that will then affect costs.
 
-- Private pools, whether indoors or outdoors, should no longer be allowed to be heated with gas and electricity.
+- Private pools, whether indoors or outdoors, will no longer be allowed to be heated with gas and electricity.
 
-- Another ordinance, which the cabinet has also approved, still needs the approval of the German Bundesrat and is to apply for two years starting from October. Among other things, it instructs mandatory annual heating inspections for buildings with gas heating systems.
- 
-``` "text" The second set of rules is expected to lower the gas consumption by around two percent. Economy Minister Robert Habeck from the Green Party sees it as small but necessary contribution. Germany has committed to reducing its gas consumption by 20% while in other EU countries the target lies at 15%. 
----
+- Another ordinance, which the cabinet has also approved, still needs the approval of the German Bundesrat and is to apply for two years starting from October.
+  Among other things, it instructs mandatory annual heating inspections for buildings with gas heating systems.
+
+
+The second set of rules is expected to lower the gas consumption by around two percent. 
+Economy Minister Robert Habeck from the Green Party sees it as small but necessary contribution.
+Germany has committed to reducing its gas consumption by 20% while in other EU countries the target lies at 15%.
+
+
+### Sources
+
+- [Neue Regeln zum Energiesparen: Was ab heute gilt](https://www.berliner-zeitung.de/news/energiesparverordnung-september-neue-regeln-zum-energiesparen-treten-in-kraft-was-ab-morgen-gilt-li.262373)
+- [Germany's energy saving rules come into force](https://www.dw.com/en/germanys-energy-saving-rules-come-into-force/a-62996041)
