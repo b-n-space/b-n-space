@@ -45,21 +45,7 @@ Exceptions are made for clinics, hospitals, nursing homes, schools and day-care 
 
 
 
-In less than 48 hours, Presearch will launch its mainnet, switching to a fully decentralized network run on node servers operated by the community members. 
-As node operators ourselves, we have been closely following the project development over the past year and are very excited about the launch.
 
-## When is the Mainnet launch planned?
-
-Leading to the Mainnet launch, 2021 was a busy year for the Presearch and "one of the most successful in the project's history" according to the team.
-The launch was first planned for the end of April, however, it has been postponed couple of times. The good news is that now we have an actual date to be looking forward to. The official mainnet launch is scheduled for the **26th May**, in less than 2 days' time.
-
-## What to expect as a node runner and searcher as we approach the official launch?
-
-The transition to Mainnet began on 5th April 2022. We have seen many network tests over the past few weeks. More production traffic has been directed from the current centralized node environment to the decentralized nodes operated by community members. With the Mainnet launch, _all search queries will be permanently routed to decentralized community-run nodes_.
-
-Node operators with good reliability scores already began to see sporadic increases in the number of queries their nodes receive (at first short durations of increased traffic, targeted at testing various platform components).
-
-Regarding rewards and reliability scores, the model has been updated from **'equal traffic, uneven rewards'** to a **'queries-served'** model that will route more traffic to nodes with higher reliability scores but will then provide equal rewards each period for all successful and rewardable searches. The new model emphasizes the quality of the search results from each node. Smart node routing allows network performance optimization to deliver a more stable and end-user-optimized experience. (read more in the article https://news.presearch.io/mainnet-launch-timeline-d66b93f5ed3c)
 
 ## What else is coming before the Mainnet:
 
