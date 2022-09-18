@@ -1,7 +1,7 @@
 ---
 title: Energy Saving Measures in Germany 2022 
 description: The energy-saving measures in Germany valid from.
-img: https://user-images.githubusercontent.com/1257310/188752345-86fbae42-7ebe-4a7b-91c2-a983f10ccf7e.png
+img: https://user-images.githubusercontent.com/59807305/190907329-e6594719-063f-46b0-982c-0eea40dc0aac.png
 alt: Presearch
 author:
   name: B. Antonia
