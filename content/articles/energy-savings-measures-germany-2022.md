@@ -2,13 +2,13 @@
 title: Energy Saving Measures in Germany 2022 
 description: The energy-saving measures in Germany valid from.
 img: https://user-images.githubusercontent.com/59807305/190907329-e6594719-063f-46b0-982c-0eea40dc0aac.png
-alt: Presearch
+alt: Image by sergei akulich from Pixabay 
 author:
   name: B. Antonia
   bio: |
     🧠 Neuroscience student
     🦸🏼 Goal digger
-  img: https://pbs.twimg.com/profile_images/1524849452304965632/quS90JQ9_400x400.jpg
+  img: https://user-images.githubusercontent.com/59807305/190924382-bd2525da-35f4-49d1-9515-5e43b9fd1a2c.jpg
 tags:
   - economy
   - energy
@@ -18,12 +18,10 @@ date: 2022-09-24T08:25:24.510Z
 draft: false
 ---
 
-``` 
-Image by sergei akulich from Pixabay 
-```
 ## The energy-saving measures in Germany valid from 01.09.2022
 
 Starting on September 1st, the German government introduced a set of binding energy-saving measures to prevent a shortage during the upcoming winter. The ordinance shall stay in force for six months.  
+
 
 
 ### Regulations for Public Buildings
