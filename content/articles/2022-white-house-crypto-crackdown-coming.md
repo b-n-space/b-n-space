@@ -1,3 +1,22 @@
+---
+title: [WIP] Coinbureau analysis of the "FACT SHEET..." 
+description: [WIP] Biden Issued a first-of-its-kind executive order on Crypto directing federal agencies to coordinate their efforts in studying cryptocurrencies.
+img: https://user-images.githubusercontent.com/59807305/190924382-bd2525da-35f4-49d1-9515-5e43b9fd1a2c.jpg
+alt: [WIP] add caption and change image 
+author:
+  name: B. Antonia
+  bio: |
+    🧠 Neuroscience student
+    🦸🏼 Goal digger
+  img: https://user-images.githubusercontent.com/1257310/190924545-66cd79f4-445a-41d5-9cd4-f29d00d3619c.jpg
+tags:
+  - [WIP]
+  - economy
+  - united states
+date: 2022-09-28T09:00:00.000Z
+draft: false
+---
+
 On 09.03.2022
 
 Biden Issued a first-of-its-kind executive order on Crypto directing federal agencies to coordinate their efforts in studying cryptocurrencies. 
