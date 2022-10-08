@@ -18,8 +18,10 @@ date: 2022-09-24T08:25:24.510Z
 draft: false
 ---
 
+
+![ethereum-3660218](https://user-images.githubusercontent.com/59807305/194729039-10dd04de-a860-4e76-901a-3f9d2bf3247b.jpg)
 ```
-Image by sergei akulich from Pixabay
+Image by Peter Patel from Pixabay 
 ```
 
 ## The merge and the aftermath
@@ -95,6 +97,7 @@ In regards to NFTs, Vitalik believes those with a use case will stay.
 
 
 
-sources: https://cointelegraph.com/news/why-post-merge-ethereum-has-become-obsolete
+sources: 
+https://cointelegraph.com/news/why-post-merge-ethereum-has-become-obsolete
 https://cryptosrus.com/eth-has-become-obsolete-post-merge/ https://twitter.com/orweinberger/status/1570887581549875200
 https://www.wired.com/story/whats-next-for-ethereum-after-the-merge/ 
