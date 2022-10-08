@@ -85,7 +85,7 @@ The plan is the upgrade the existing Ethereum's two-layer scaling model which in
 
 > "And then there are these separate protocols that take that data as an ingredient and create kind of like mini-Ethereums inside of Ethereum, on top of that. These together would be able to process a much larger number of transactions. Instead of the roughly 20 transactions per second that Ethereum can process today, potentially between 5,000 and a 100,000 transactions." 
 
-The merge prepared made the planned changes easier. 
+The merge made the planned changes easier. 
 
 2020/2021 Was a bubble and Ethereum wasn't mature enough at that time. 
 > "Transaction fees on Ethereum got up to $5 and even $20 [per transaction] last year, and if there is another big price bubble we could easily see fees go up to $100 or $200." For that reason, Ethereum is now not yet where it once wants to be helping the developed world and including everyone who wants to use it for transactions. 
