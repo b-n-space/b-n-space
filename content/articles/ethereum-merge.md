@@ -1,8 +1,8 @@
 ---
 title: Ethereum Merge
-description: The energy-saving measures in Germany valid from.
-img: https://user-images.githubusercontent.com/59807305/190907329-e6594719-063f-46b0-982c-0eea40dc0aac.png
-alt: Presearch
+description: The merge aftermath and predicted developments 
+img: https://user-images.githubusercontent.com/59807305/194729039-10dd04de-a860-4e76-901a-3f9d2bf3247b.jpg
+alt: Image by Peter Patel from Pixabay 
 author:
   name: B. Antonia
   bio: |
@@ -10,19 +10,17 @@ author:
     🦸🏼 Goal digger
   img: https://pbs.twimg.com/profile_images/1524849452304965632/quS90JQ9_400x400.jpg
 tags:
-  - economy
-  - energy
-  - germany
-  - presearch
+  - ethereum
+  - crypto
+  - pos
+  - pow
 date: 2022-09-24T08:25:24.510Z
 draft: false
 ---
 
 
-![ethereum-3660218](https://user-images.githubusercontent.com/59807305/194729039-10dd04de-a860-4e76-901a-3f9d2bf3247b.jpg)
-```
-Image by Peter Patel from Pixabay 
-```
+
+
 
 ## The merge and the aftermath
 
