@@ -1,5 +1,5 @@
 ---
-title: '[wip] Coinbureau analysis of the "FACT SHEET..."'
+title: '[wip] The "FACT SHEET": White House Releases a Framework for Development of Digital Assets'
 description: "[wip] Biden Issued a first-of-its-kind executive order on Crypto directing
   federal agencies to coordinate their efforts in studying cryptocurrencies."
 img: https://user-images.githubusercontent.com/59807305/190924382-bd2525da-35f4-49d1-9515-5e43b9fd1a2c.jpg
@@ -18,19 +18,13 @@ date: 2022-09-28T09:00:00.000Z
 draft: false
 ---
 
-On 09.03.2022
-
-Biden Issued a first-of-its-kind executive order on Crypto directing federal agencies to coordinate their efforts in
+> On 09.03.2022 United States president Joe Biden Issued a first-of-its-kind executive order on Crypto directing federal agencies to coordinate their efforts in
 studying cryptocurrencies.
 
-On 16.09.2022
-
-six months later, the White House releases a "FACT SHEET: White House Releases First-Ever Comprehensive Framework for
+Six months later on 16.09.2022, the White House releases a "FACT SHEET: White House Releases First-Ever Comprehensive Framework for
 Responsible Development of Digital Assets"
 
-https://www.whitehouse.gov/briefing-room/statements-releases/2022/09/16/fact-sheet-white-house-releases-first-ever-comprehensive-framework-for-responsible-development-of-digital-assets/
-
-The cryptocurrency industry needs substantive proposals that aim to do more than simply mitigate potential damage. The
+> The cryptocurrency industry needs substantive proposals that aim to do more than simply mitigate potential damage. The
 Biden administration's framework failed to acknowledge crypto's advantages. - Cointelegraph
 
 ## Coinbureau analysis of the "FACT SHEET..."
@@ -97,8 +91,8 @@ higher in 2021 than in 2020 (crypto prices were higher, facepalm...) 🤦‍♂�
 - instruct CFPB (Consumer Financial Protection Bureau and FTC (Federal trade commission) "monitor consumer complaints and
   to enforce against unfair, deceptive or abusive practices"
 
-- CFPB is one of the organisations that were created as a part of the Dot Frank Act in 2010 (Act put together by Michael
-  Bar in the aftermath of the 2008 financial crises, Bar is Vice Chair of supervision at the FED -> this position was also
+- CFPB is one of the organisations that were created as a part of the Dot Frank Act in 2010 (an act put together by Michael
+  Bar in the aftermath of the 2008 financial crisis, Bar is Vice Chair of supervision at the FED -> this position was also
   created by the Dot Frank Act)
 
 "address current and emerging risks in the cryptocurrency" without clarifying the "risks"
@@ -115,7 +109,7 @@ probably referring to stablecoins anyway)
 The administration is dead set on FedNow Payment as the first step to financial inclusion - super scary - the step
 includes using FedNow in the context of the distribution of disaster, emergency or other government-to-consumer payments
 
-> Guy: taxation and emergency relief is how governments around the world will likely achieve the adoption of CBDCs
+> Guy: taxation and emergency relief are how governments around the world will likely achieve the adoption of CBDCs
 
 because no competition the second step will be to instruct regulators to crack down on non-banking entities presumably
 including cryptocurrency exchanges
@@ -127,7 +121,7 @@ they expect 12% of people in the developed world to voluntarily adopt CBDCs
 
 ### Financial stability
 
-crypto and existing finanncial system becoming more connected (mostly in stable coins)
+crypto and existing financial systems becoming more connected (mostly in stable coins)
 
 > Guy: regulators are afraid of stablecoins because most are backed by US government debt. If they become too big and
 > there is a run on a stablecoin issuer they could dump these treasuries assets on the open market - Using Terra UST
