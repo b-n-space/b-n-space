@@ -2,7 +2,7 @@
 title: FED Meeting September 20 - 21 Aftermath
 description: In September meeting FED spiked the rates by 75 bps for third consecutive time 
 img: https://user-images.githubusercontent.com/59807305/194770884-b8571680-e483-490d-8800-b672d26ededf.png
-alt: NAsdaq / REUTERS
+alt: Nasdaq / REUTERS
 author:
   name: B. Antonia
   bio: |
@@ -32,7 +32,9 @@ What to expect from the next FED meeting
 
 a further increase in interest rates is expected as FED raised the interest rates by 75 basis points third time in a row
 
-> "In the future, the market will react hypersensitively to any kind of Fed commentary and data," investment expert Brian Klimke of Cetera Financial
+> In the future, the market will react hypersensitively to any kind of Fed commentary and data .. 
+
+investment expert Brian Klimke of Cetera Financial
 
 FED's priority is to fight inflation despite the economy suffering
 other western CBs are undoubtedly going to continue raising interest rates as well
