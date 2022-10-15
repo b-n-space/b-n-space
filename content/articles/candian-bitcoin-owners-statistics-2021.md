@@ -26,7 +26,7 @@ draft: false
 ### Sharp increase of Bitcoin ownership in 2021
 Ownership of Bitcoin has seen a steep rise in 2021 after keeping under 5% between 2018 and 2020. The report also uncovered that 
 > Purchasers used mobile apps much more than web-based exchanges, mining or visiting a Bitcoin ATM.
-- Bank of Canada
+Bank of Canada
 
 ![Sharp increase of Bitcoin ownership in 2021](https://user-images.githubusercontent.com/59807305/195987949-aa796718-4f8c-4019-bca6-8d67a9ea3766.jpg)
 
@@ -39,14 +39,16 @@ Yet the survey in 2021 found that 40% of Bitcoin owners poses a low-level of und
 Half of all owners in 2021 purchased Bitcoin in 2020 or 2021. 
 
 > These recent owners are even more likely than earlier adopters to view Bitcoin as an investment vehicle. 
-- Bank of Canada
+Bank of Canada
  
 ![Purchases were largely driven by investment reasons](https://user-images.githubusercontent.com/59807305/195988874-07ce9982-4ae4-4c11-8794-cc8f9c8bdef9.jpg)
 
 
 ### Most Canadian Bitcoin owners hold small amounts
+
 > In 2021, the median amount of Bitcoin held was Can$500 worth, and 70% of Bitcoin owners held the equivalent of Can$5,000 or less.
 Bank of Canada
+
 Long-term owners benefited from the 2020 significant price increase and their holdings are accordingly higher in value.
 
 ![Most Canadian Bitcoin owners hold small amounts](https://user-images.githubusercontent.com/59807305/195989523-47a20d96-36d2-4b0c-93d0-1a30b127bd62.jpg)
