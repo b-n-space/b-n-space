@@ -1,7 +1,7 @@
 ---
 title: Bitcoin ownership among Canadians in 2021 
 description: According to the Bank of Canada’s Financial System Review, cryptoassets market have seen rapid growth and integration into the traditional finance in recent years
-img: ![bitcoin-4406848](https://user-images.githubusercontent.com/59807305/195985948-607de861-6ce7-41f5-813e-a777403a11bd.jpg)
+img: https://user-images.githubusercontent.com/59807305/195985948-607de861-6ce7-41f5-813e-a777403a11bd.jpg
 alt: Image by cryptostock from Pixabay 
 author: 
   name: B. Antonia
