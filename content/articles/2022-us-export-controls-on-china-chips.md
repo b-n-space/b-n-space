@@ -1,7 +1,7 @@
 ---
 title: US Export Controls Disable China's Chips Manufacturing
 description: New US export regulations will deprive China of equipment for manufacturing high-end chips
-img: ![technology-3092486](https://user-images.githubusercontent.com/59807305/197054435-474c0746-924c-4dfc-b4fb-a5f514b12a72.jpg)
+img: https://user-images.githubusercontent.com/59807305/197054435-474c0746-924c-4dfc-b4fb-a5f514b12a72.jpg
 alt: Image by Joe from Pixabay 
 author: 
   name: B. Antonia
@@ -40,8 +40,8 @@ The USA imposing new export restrictions had an immediate impact on all American
 
 > Every American executive and engineer working in China’s semiconductor manufacturing industry resigned yesterday, paralyzing Chinese manufacturing overnight. reported analyst on China and technology Jordan Schneider @jordanschnyc
 
-Sources:
-https://www.bis.doc.gov/
-https://www.washingtonpost.com/technology/2022/10/17/export-controls-us-china-chips/
-https://twitter.com/abhishek_tri/status/1581242514475884545
-https://twitter.com/jordanschnyc/status/1580889341265469440
+## Sources:
+- [Bureau of Industry and Security](https://www.bis.doc.gov/)
+- [Western suppliers cut ties with Chinese chipmakers as U.S. curbs bite](https://www.washingtonpost.com/technology/2022/10/17/export-controls-us-china-chips/)
+- https://twitter.com/abhishek_tri/status/1581242514475884545
+- https://twitter.com/jordanschnyc/status/1580889341265469440
