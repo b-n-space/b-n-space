@@ -36,7 +36,7 @@ As a response to the newly released rules, some Western companies discontinued t
 
 The USA imposing new export restrictions had an immediate impact on all American citizens or the Green card holders working in China in the semiconductor industry.
 
-<b><i>"Every American executive and engineer working in China’s semiconductor manufacturing industry resigned yesterday, paralyzing Chinese manufacturing overnight."</i></b> reported analyst on China and technology Jordan Schneider @jordanschnyc
+<b><i>"Every American executive and engineer working in China’s semiconductor manufacturing industry resigned yesterday, paralyzing Chinese manufacturing overnight."</i></b> reported analyst on China and technology Jordan Schneider [@jordanschnyc](https://twitter.com/jordanschnyc/status/1580889341265469440).
 
 ## Sources
 - [Bureau of Industry and Security](https://www.bis.doc.gov/)
