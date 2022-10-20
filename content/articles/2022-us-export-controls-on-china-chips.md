@@ -1,6 +1,6 @@
 ---
-title: New US export regulations will deprive China of equipment for manufacturing high-end chips 
-description: 
+title: US Export Controls Disable China's Chips Manufacturing
+description: New US export regulations will deprive China of equipment for manufacturing high-end chips
 img: ![technology-3092486](https://user-images.githubusercontent.com/59807305/197054435-474c0746-924c-4dfc-b4fb-a5f514b12a72.jpg)
 alt: Image by Joe from Pixabay 
 author: 
