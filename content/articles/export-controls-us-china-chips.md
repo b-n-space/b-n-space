@@ -1,8 +1,8 @@
 ---
 title: New US export regulations will deprive China of equipment for manufacturing high-end chips 
 description: 
-img: 
-alt: 
+img: ![technology-3092486](https://user-images.githubusercontent.com/59807305/197054435-474c0746-924c-4dfc-b4fb-a5f514b12a72.jpg)
+alt: Image by Joe from Pixabay 
 author: 
   name: B. Antonia
   bio: |
@@ -18,11 +18,11 @@ date: 2022-10-18T09:00:00.000Z
 draft: false
 ---
 
-On October 7, 2022 the Bureau of Industry and Security (BIS) officially implemented a set of new rules to its export controls. The aim of the new US export controls is to strip China of access to American-made equipment and software needed for manufacturing high-end chips. 
+On October 7, 2022, the Bureau of Industry and Security (BIS) officially implemented a set of new rules to its export controls. The aim of the new US export controls is to strip China of access to American-made equipment and software needed for manufacturing high-end chips. 
 
 >  These items and capabilities are used by the PRC to produce advanced military
 systems including weapons of mass destruction; improve the speed and accuracy of its military
-decision making, planning, and logistics, as well as of its autonomous military systems; and
+decision-making, planning, and logistics, as well as of its autonomous military systems; and
 commit human rights abuses.
 Bureau of Industry and Security (BIS)
 
@@ -36,6 +36,12 @@ A novel step imposed by the rules also
 > Restricts the ability of U.S. persons to support the development, or production, of ICs at certain PRC-located semiconductor fabrication 'facilities without a license;
 Bureau of Industry and Security (BIS)
 
-USA imposing new export restrictions had an immediate inpact on ...
+The USA imposing new export restrictions had an immediate impact on all American citizens or the Green card holders working in China in the semiconductor industry.
 
 > Every American executive and engineer working in China’s semiconductor manufacturing industry resigned yesterday, paralyzing Chinese manufacturing overnight. reported analyst on China and technology Jordan Schneider @jordanschnyc
+
+Sources:
+https://www.bis.doc.gov/
+https://www.washingtonpost.com/technology/2022/10/17/export-controls-us-china-chips/
+https://twitter.com/abhishek_tri/status/1581242514475884545
+https://twitter.com/jordanschnyc/status/1580889341265469440
