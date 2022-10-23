@@ -20,20 +20,20 @@ draft: false
 
 On 09.03.2022 United States president Joe Biden Issued a first-of-its-kind executive order on Crypto directing federal agencies to coordinate their efforts in studying cryptocurrencies.
 
-Six months later on 16.09.2022, the White House releases a "FACT SHEET: White House Releases First-Ever Comprehensive Framework for
-Responsible Development of Digital Assets"
+Six months later on 16.09.2022, the White House releases a "FACT SHEET: White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets".
 
-> The cryptocurrency industry needs substantive proposals that aim to do more than simply mitigate potential damage. The
-Biden administration's framework failed to acknowledge crypto's advantages. 
+> The cryptocurrency industry needs substantive proposals that aim to do more than simply mitigate potential damage. The Biden administration's framework failed to acknowledge crypto's advantages.
 
-Cointelegraph
+<sub>Cointelegraph</sub>
+
 
 ## Coinbureau analysis of the "FACT SHEET"
 
-Around 16% of Americans hold crypto as a part of their personal portfolio (according to NBC news research 21% have held
+Around 16% of Americans hold crypto as a part of their personal portfolio. According to NBC news research 21% have held 
 crypto has the potential to reinforce "the United States’ role in the global financial system"
 also mentions potential risks, e.g. Terra crash claiming it caused 600 BLN USD damage to the crypto market in the
 following month (debatable, there were other macro factors)
+
 
 ### Areas of the Fact Sheet
 
@@ -67,7 +67,7 @@ and the treasury department could become one institution (hypercentralisation)
 The Fact sheet focuses on volatility, lack of transparency .. They are not mentioning rewards and benefits at all. According to FBI research, scams, fraud, etc in crypto climbed 600% in 2021 than in 2020. Let's not get confused here. The crypto prices were much higher and therefore the total amount fiat money lost do due to crime increased. 
 The Fact sheet doesn't present many facts and stats to support its claims!
 
-#### steps:
+#### Steps:
 
 - instructs SEC (security exchange commission) and the CFTC (commodities future trading commission) to "aggressively
   pursue investigations and legal actions against crypto projects and companies"
@@ -103,6 +103,7 @@ To ensure adoption - instruct the national science foundation to research behavi
 figure out how to convince people
 they expect 12% of people in the developed world to voluntarily adopt CBDCs
 
+
 ### Financial stability
 
 crypto and existing financial systems becoming more connected (mostly in stable coins)
@@ -116,16 +117,17 @@ possible crypto bear market lows.
 
 > Important to watch my video on the stablecoins report as they reference it as a starting point https://youtu.be/F27Wqgdz6fw
 
-#### two steps in planning:
+#### Two steps in planning
 
 The treasury will work with financial institutions to bolster their capacity to identify and mitigate cyber
 vulnerabilities "identify, track and analyse emerging strategic risks" in cryptocurrencies.
+
 
 ### Advancing responsible Innovation
 
 Around half of the most valuable tech companies are based in the US (backdoor deals the companies have with the US intelligence agencies)
 
-#### steps:
+#### Steps
 
 - instructs office OSTP to develop digital assets research and development agenda
   NSF will back social science and education research that develops methods develops methods of informing, educating and
@@ -163,6 +165,7 @@ cooperating with unelected organisations like FATF to establish global financial
 > for other fiat currencies, one of them the Euro_ - in the interest of the US if Circle provides Euro to countries around
 > Europe - certainly in the interest of Blackrock who backs Circle 
 
+
 ### Illicit Activities
 
 US pushing for KYC around the world
@@ -178,7 +181,7 @@ transactions are related to illicit activity -> 2 - 5% of all Fiat transactions 
 despite KYC and AML) -> shows they haven't done anything in this regard in the last 30 years rather than creating
 multi-billion business of compliance companies and justified government overreach
 
-#### steps:
+#### Steps
 
 US politicians to expand US secrecy act to include crypto (will includeDeFi and NFT), all transactions over 10k $ have
 to be reported, also peer-to-peer which they want to get rid off
@@ -190,6 +193,7 @@ Push to let department of justice prosecute digital asset crimes in any jurisdic
 Instruct treasury DPT to publish reports about the illicit finance risk of DeFi and NFTs end of Feb and July next year
 Continue to expose and disrupt illicit actors - more sanctions
 work with the private sector to understand illicit risks
+
 
 ### Digital $ CBDC
 
@@ -218,4 +222,6 @@ a wave of regulation is coming for sure - some are reasonable, unreasonable incl
 potentially killing the industry
 Americans, inform yourselves about crypto-pro politicians (they sit on both sides)
 
-https://airtable.com/appceQgzEH49sIqOg/tbli3TLyqNAS2xtDs/viwgQbuAeuyYvlzYm/reczPj1LkpeIaIekp?blocks=hide
+## Sources
+- [This Worries Me!! White House Crypto Crackdown Coming?!](https://www.youtube.com/watch?v=VwYXtaK6Vr8)
+- []()
