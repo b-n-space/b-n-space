@@ -18,7 +18,7 @@ date: 2022-09-24T08:25:24.510Z
 draft: false
 ---
 
-> The mood on Nasdaq remained depressed after the FED decision to increase the interest rates by 75 basis points 
+The mood on Nasdaq remained depressed after the FED decision to increase the interest rates by 75 basis points 
 
 - Standard values coped better stabilising at lower levels
 - The Nasdaq technology exchange fell by 1.8% on Wednesday
@@ -30,9 +30,9 @@ draft: false
 
 A further increase in interest rates is expected as FED raised the interest rates by 75 basis points third time in a row.
 
-> In the future, the market will react hypersensitively to any kind of Fed commentary and data .
+> In the future, the market will react hypersensitively to any kind of Fed commentary and data.
 
-<sub>investment expert Brian Klimke of Cetera Financial for Tageschau<sub>
+<sub>Investment expert Brian Klimke of Cetera Financial for Tageschau<sub>
 
 FED's priority is to fight inflation despite the economy suffering. Other western CBs are undoubtedly going to continue raising interest rates as well.
 
@@ -40,6 +40,7 @@ FED's priority is to fight inflation despite the economy suffering. Other wester
 ## Germany
 
 On Wednesday, September 21 the leading German index DAX closed at 12,531 points, down 1.84 %. 
+
 
 ## Sources
 - [Gedrückte Stimmung an der Nasdaq](https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-boerse-dax-dow-jones-107.html)
