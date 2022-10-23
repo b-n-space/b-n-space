@@ -1,7 +1,7 @@
 ---
 title: White House Releases a Framework for Development of Digital Assets
-description: "FACT SHEET: White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets"  
-img: ![united-states-capitol-1675539](https://user-images.githubusercontent.com/59807305/197414682-77f302dd-8884-4a0a-ac92-4e62b08b3788.jpg)
+description: "Coin Bureau analysis of FACT SHEET: White House Releases First-Ever Comprehensive Framework for Responsible Development of Digital Assets"  
+img: https://user-images.githubusercontent.com/59807305/197414682-77f302dd-8884-4a0a-ac92-4e62b08b3788.jpg
 alt: Image by MotionStudios from Pixabay 
 author:
   name: B. Antonia asd sad
