@@ -29,10 +29,9 @@ Six months later on 16.09.2022, the White House releases a "FACT SHEET: White Ho
 
 ## Coinbureau analysis of the "FACT SHEET"
 
-Around 16% of Americans hold crypto as a part of their personal portfolio. According to NBC news research 21% have held 
-crypto has the potential to reinforce "the United States’ role in the global financial system"
-also mentions potential risks, e.g. Terra crash claiming it caused 600 BLN USD damage to the crypto market in the
-following month (debatable, there were other macro factors)
+According to the stats at the beginning of the report, 16% of Americans hold crypto as a part of their personal portfolio. This number is not far from NBC news research showing 21% have ever heldcrypto.
+The report mentions that crypto has the potential to reinforce "the United States’ role in the global financial system"
+and discusses potential risks, e.g. Terra crash claiming it caused 600 BLN USD damage to the crypto market in the following month. This claim is debatable, becasue of other macro factors which most likely played role in the market crash around that time.
 
 
 ### Areas of the Fact Sheet
@@ -49,14 +48,13 @@ following month (debatable, there were other macro factors)
 
 6. Responsible Innovation
 
-Nine reports were created in total. All are focusing  
-> helping cutting-edge US firms to find a foothold in global markets..
+Nine reports were created in total, all focusing on helping leading US firms to establish a strong presence in global markets.
 
 > Crypto isn't about private companies establishing global dominance. It's about developers competing between
 > decentralised developers.
 
 Crypto carbon footprint was called out in the Fact sheet. The authors are also calling on the central bank and treasury department to speed up CBDC creation and calling for the creation of an interagency working group to develop digital $ -> this is significant because the federal reserve
-and the treasury department could become one institution (hypercentralisation)
+and the treasury department could become one institution. Hypercentralisation?
 
 ## The Individual Points and Steps:
 
@@ -143,32 +141,31 @@ Around half of the most valuable tech companies are based in the US (backdoor de
   "Opportunities exist to align the development of digital assets with transitioning to a net-zero emissions economy and
   improving environmental justice."
 
-> B: Will they ban PoW and base it on an unscientific justification?
-
 - The fourth step includes ".. establishing a standing forum to convene federal agencies, industry, academics, and civil
   society to exchange knowledge and ideas that could inform federal regulation, standards, coordinating activities,
   technical assistance, and research support."
-  Getting everyone on board seems likely a sign that government feels threatened by crypto.
+Getting everyone on board seems likely a sign that government feels threatened by crypto.
 
-US as the leader of the status quo of global finance as well the country’s financial competitiveness
+### The US as the leader of the status quo of global finance as well the country’s financial competitiveness 
 
-cooperating with unelected organisations like FATF to establish global financial leadership
-"US values find their way into cryptocurrency"
+This point includes cooperating with unelected organisations like FATF to establish global financial leadership to "US values find their way into cryptocurrency".
 
-> Code for financial control and financial surveillance
-> Instruct US various government agencies to partner with similar agencies around the world (doesn't include any mention
-> about crypto)
->
-> the administration will help third-world countries to develop their financial structure architecture - B: oh yeah, a
-> nice way to control a larger part of the world
-> help tech companies to find a place for their products on foreign markets- _Guy: for e.g. Circle providing stable coins
-> for other fiat currencies, one of them the Euro_ - in the interest of the US if Circle provides Euro to countries around
-> Europe - certainly in the interest of Blackrock who backs Circle 
+> Note, this is code for financial control and financial surveillance not freedom and liberty
+
+ The administration plans to instruct various government agencies to partner with similar agencies around the world. This step doesn't include any mention about crypto.
+
+> The administration will help third-world countries to develop their financial structure architecture ... 
+
+as well as
+
+> ... help tech companies to find a place for their products on foreign markets 
+> - for e.g. Circle providing stable coins for other fiat currencies, one of them the Euro is in the interest of the US if Circle provides Euro to 
+> countries around Europe - certainly in the interest of Blackrock who backs Circle 
 
 
 ### Illicit Activities
 
-US pushing for KYC around the world
+The US is pushing for KYC around the world.
 
 "While our efforts have strengthened the U.S. financial system, digital assets— some of which are pseudonymous and can
 be transferred without a financial intermediary —have been exploited by bad actors..."
@@ -216,12 +213,15 @@ borrowing will be extremely expensive, the stock market will be manipulated
 
 ## What it all means for crypto?
 
-The current administration wants to crush crypto
-2024 election! (during next crypto bull run)
-a wave of regulation is coming for sure - some are reasonable, unreasonable include labelling some crypto high-risk
-potentially killing the industry
-Americans, inform yourselves about crypto-pro politicians (they sit on both sides)
+The current administration wants to crush crypto.
+The 2024 election is significant as it will happen during the next crypto bull run.
+
+> A wave of regulation is coming for sure - some are reasonable, unreasonable include labelling some crypto high-risk
+> potentially killing the industry given that the United States is behind the international organizations engaging in this kind of Guerrilla regulation.
+> American voters might be the ones who decide what comes next for crypto ...
+
+Americans, inform yourselves about crypto-pro politicians, they sit on both sides.
 
 ## Sources
 - [This Worries Me!! White House Crypto Crackdown Coming?!](https://www.youtube.com/watch?v=VwYXtaK6Vr8)
-- []()
+- [Biden‘s anemic crypto framework offered nothing new](https://cointelegraph.com/news/biden-s-anemic-crypto-framework-isn-t-what-we-need)
