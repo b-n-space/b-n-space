@@ -194,11 +194,10 @@ work with the private sector to understand illicit risks
 
 ### Digital $ CBDC
 
-start talking about all the benefits
-financial inclusion, cross-border payments ...
-it could help preserve US financial leadership and support the effectiveness of sanctions
+Last but not least the report talks about all the benefits of CBDC like financial inclusion, cross-border payments ...
+It could help preserve US financial leadership and support the effectiveness of sanctions. 
 
-> No sane country will adopt it knowing the US could easily turn off its economy
+> ... however these two goals seem to be mutually exclusive. No sane country will a digital dollar if it meant the U.S government could effectively turn off its economy at the flick of a switch.
 
 "The Administration has developed Policy Objectives for a U.S. CBDC System, which reflect the federal government’s
 priorities for a potential U.S. CBDC."
