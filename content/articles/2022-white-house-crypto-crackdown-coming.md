@@ -104,7 +104,7 @@ they expect 12% of people in the developed world to voluntarily adopt CBDCs
 
 ### Financial stability
 
-crypto and existing financial systems becoming more connected (mostly in stable coins)
+Crypto and existing financial systems are becoming more connected with stable coins leading the way.
 
 > Regulators are afraid of stablecoins because most are backed by US government debt. If they become too big and there is a run on a stablecoin issuer they could dump these treasuries assets on the open market - Using Terra UST example is silly to demonstrate how much damage crypto could do to the US financial system
 
@@ -123,7 +123,9 @@ vulnerabilities "identify, track and analyse emerging strategic risks" in crypto
 
 ### Advancing responsible Innovation
 
-Around half of the most valuable tech companies are based in the US (backdoor deals the companies have with the US intelligence agencies)
+Around half of the most valuable tech companies are based in the US. Backdoor deals with the US intelligence agencies are not uncommon. 
+
+![us_finance](https://user-images.githubusercontent.com/59807305/200022952-e4d81b33-7c5e-4957-afc1-185e3c8cde07.png)
 
 #### Steps
 
@@ -208,6 +210,8 @@ No mention of all the downsides of the CBDS
 
 The CBDS will give governments power to decide where how what you buy and how much you can save
 borrowing will be extremely expensive, the stock market will be manipulated
+
+![euro_bitcoin](https://user-images.githubusercontent.com/59807305/199921220-3a7b9ecc-ad6a-49bb-bba0-7967c3f3f698.jpg)
 
 
 ## What it all means for crypto?
