@@ -218,7 +218,9 @@ There are efforts to let the department of justice prosecute digital asset crime
 <sub>Coinbureau</sub>
 
 Instruct treasury DPT to publish reports about the illicit finance risk of DeFi and NFTs end of February and July next year.
-Continue to expose and disrupt illicit actors and impose more sanctions. Work with the private sector to understand illicit risks.
+Continue to expose and disrupt illicit actors and impose more sanctions. 
+
+Work with the private sector to understand illicit risks.
 
 ### Digital $ CBDC
 
