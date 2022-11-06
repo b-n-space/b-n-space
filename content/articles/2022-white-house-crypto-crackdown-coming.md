@@ -4,11 +4,11 @@ description: "Coin Bureau analysis of FACT SHEET: White House Releases First-Eve
 img: https://user-images.githubusercontent.com/59807305/197414682-77f302dd-8884-4a0a-ac92-4e62b08b3788.jpg
 alt: Image by MotionStudios from Pixabay 
 author:
-  name: B. Antonia asd sad
+  name: B. Antonia
   bio: |
     🧠 Neuroscience student
     🦸🏼 Goal digger
-  img: https://user-images.githubusercontent.com/1257310/190924545-66cd79f4-445a-41d5-9cd4-f29d00d3619c.jpg
+  img: /authors/bantonia.png
 tags:
   - fed
   - crypto
