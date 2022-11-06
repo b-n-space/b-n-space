@@ -1,3 +1,23 @@
+---
+title: Housing market 
+description: Czech politicians publicly discuss the European energy stock exchange
+img: https://user-images.githubusercontent.com/59807305/197044984-ea3bc50e-5ed9-4ce0-97e6-9eb6cc673db1.jpg
+alt: Image by Ahmad Ardity from Pixabay 
+author: 
+  name: B. Antonia
+  bio: |
+    🧠 Neuroscience student
+    🦸🏼 Goal digger
+  img: https://user-images.githubusercontent.com/1257310/190924545-66cd79f4-445a-41d5-9cd4-f29d00d3619c.jpg
+tags:
+  - europe
+  - electricity
+  - market
+  - czech
+date: 2022-10-20T09:00:00.000Z
+draft: false
+---
+
 
 the interest to buy houses dropped by large mainly because of rising mortgage rates 
 
@@ -65,6 +85,8 @@ Home owners and potential buyers are left with uncertainty, espcecially those wh
 
 The bank of ENglanded raised the interest rates by 75 bpt, the biggest interest rates increase in 33 years. The impact on a an average homeovner might be too much to bear. As a result
 they might be forced to sell their home. In end effect, the UK house prices might fall betwenen 10 - 15% according to analysts. 
+
+<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=cclr&v=202210261556V20220312&d1=20171107&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/canada/interest-rate'>tradingeconomics.com</a>
 
 The global housing market is expeting some large turbulences. The home owners starting with the US and especially Canada are epecting massive corrections. In Canada, this could mean
 a situation similar to the 2008 housing bubble burst in the US. Candaian GDP would take a large hit if this was the case. There is an opportunity hidden for prpspective home owners.
