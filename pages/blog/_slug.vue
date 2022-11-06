@@ -9,7 +9,7 @@
         </NuxtLink>
         <div class="mt-16 -mb-3 flex uppercase text-sm text-shadow-xl">
           <p class="mr-3">
-            {{ formatDate(article.updatedAt) }}
+            {{ $formatDate(article.date) }}
           </p>
           <span class="mr-3">•</span>
           <p>{{ article.author.name }}</p>
@@ -36,7 +36,7 @@
       class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
     >
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
-      <p class="pb-4">Post last updated: {{ formatDate(article.updatedAt) }}</p>
+      <p class="pb-4">Post last updated: {{ $formatDate(article.updatedAt) }}</p>
       <!-- table of contents -->
       <nav v-if="article.showToc" class="pb-6">
         <ul>
@@ -108,12 +108,7 @@ export default {
       ],
     }
   },
-  methods: {
-    formatDate(date) {
-      const options = { year: 'numeric', month: 'long', day: 'numeric' }
-      return new Date(date).toLocaleDateString('en', options)
-    },
-  },
+  methods: {},
 }
 </script>
 <style>
