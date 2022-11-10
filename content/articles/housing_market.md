@@ -19,34 +19,39 @@ draft: false
 ---
 
 
-the interest to buy houses dropped by large mainly because of rising mortgage rates 
+In summer, media started reporting about housing market confusion and fears of a collapse. The interest to buy houses dropped by large mainly because of rising mortgage rates. 
 
- 
+> As recession concerns weigh on consumer outlooks, our survey shows uncertainty has made its way into the minds of many buyers.
 
-“As recession concerns weigh on consumer outlooks, our survey shows uncertainty has made its way into the minds of many buyers,” said Danielle Hale, chief economist at Realtor.com.
-
-
-
-the most popular product today 30-year fixed mortgage increased from 3% to 6% from the beginning of this year
+<sub>Danielle Hale, chief economist at Realtor.com</sub>
 
 
+According to CNBC, the 30-year fixed mortgage, one of the most popular home financing products in the US, increased from 3% to 6% from the beginning of this year.
 
-Higher prices and low supply
 
-Prices are now 43% higher than at the start of covid
+## Higher Prices and Low Supply
+
+In September, prices were 43% higher than at the start of the covid pandemic.
 Supply of homes grew 27% from the last year, still not enough to cover the years-long shortage of homes
-B note: most recently house construction has slowed down because of material price increase
- Homebuilders are slowing production due to fewer potential buyers touring their models
-Tighter monetary policy from the Federal Reserve and persistently elevated construction costs have brought on a housing recession
-Data shows buyers didn't disappear entirely, some are using the thinning competition and some exploring smaller markets
-Home prices are cooling off -> decline of .77% from June to July. While the drop may seem small, it is the largest single-month decline in prices since January 2011. It is also the second-worst July performance dating back to 1991, behind the 0.9% decline in July 2010, during the Great Recession.
-this fall sales for the housing market are dryer then usual 
+Most recently house construction has slowed down because of material price increase.
+
+Homebuilders are slowing down the production of new houses as a response to fewer potential buyers touring model houses.
+
+> Tighter monetary policy from the Federal Reserve and persistently elevated construction costs have brought on a housing recession.
+
+<sub>CNBC</sub>
+
+
+Data shows buyers didn't disappear entirely, some are using the thinning competition and some are exploring smaller markets.
+Home prices are cooling off. The decline in prices of .77% from June to July is the largest single-month decline since January 2011. 
+It is the second-worst perfomance in July since 1991 Great Depression. 
 
 
 Prices of realestate even in the most lucrative areas are beggining to fall. With morgage rates at ... high. Are there any parallels to 2008? 
 America's pandemic price boom is over. According to Case-Shiller index, prices fell by 1.3 % in August for a second consecutive month. This was the largest drop since March 2009. 
 New home sales decreased by 10.9 % in September. One of the driving factors might be the high prices of morgage when purchasing a new home. 7% rate on a 30 years 
 morgage is the highest it has been in over 20 years. 
+
 
 > A monthly mortgage on a median-priced home with a 20 down payment went from thirteen hundred dollars a year ago to over twenty three hundred dollars now
 that's an eighty percent increase in payments. Demand for morgages is a half of what it used to be last year and at its lowest from 1997.
@@ -93,6 +98,7 @@ a situation similar to the 2008 housing bubble burst in the US. Candaian GDP wou
 
 In the UK, the cost of living already increased through a 10% inflation might increase further escpecially for those needing to refinance their mortgage. Let's see if the new PM can do something. 
 
-> Resources:
-https://www.youtube.com/watch?v=ueqKUCYPDZ4 
-
+## Sources
+ 
+- [Is Housing Market Crash Coming Soon?](https://www.youtube.com/watch?v=ueqKUCYPDZ4)
+- [Housing Market Confusion](https://www.cnbc.com/2022/09/09/housing-market-confusion-whats-happening-next.html)
