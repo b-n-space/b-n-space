@@ -1,8 +1,8 @@
 ---
-title: Housing market 
-description: Czech politicians publicly discuss the European energy stock exchange
-img: https://user-images.githubusercontent.com/59807305/197044984-ea3bc50e-5ed9-4ce0-97e6-9eb6cc673db1.jpg
-alt: Image by Ahmad Ardity from Pixabay 
+title: Housing market sudden downturn
+description: The housing prices tumble at a record pace, in some places more than in other 
+img: https://user-images.githubusercontent.com/59807305/201213545-5dd1806c-1fa0-4065-b392-0ec612664334.jpg
+alt: Image by Denis from Pixabay 
 author: 
   name: B. Antonia
   bio: |
@@ -10,16 +10,16 @@ author:
     🦸🏼 Goal digger
   img: https://user-images.githubusercontent.com/1257310/190924545-66cd79f4-445a-41d5-9cd4-f29d00d3619c.jpg
 tags:
-  - europe
-  - electricity
+  - housing
+  - recession 
   - market
-  - czech
+  - real-estate 
 date: 2022-10-20T09:00:00.000Z
 draft: false
 ---
 
 
-In summer, media started reporting about housing market confusion and fears of a collapse. The interest to buy houses dropped by large mainly because of rising mortgage rates. 
+In the summer, the media started reporting about housing market confusion and fears of a collapse. The interest to buy houses dropped by large mainly because of rising mortgage rates. 
 
 > As recession concerns weigh on consumer outlooks, our survey shows uncertainty has made its way into the minds of many buyers.
 
@@ -44,61 +44,53 @@ Homebuilders are slowing down the production of new houses as a response to fewe
 
 Data shows buyers didn't disappear entirely, some are using the thinning competition and some are exploring smaller markets.
 Home prices are cooling off. The decline in prices of .77% from June to July is the largest single-month decline since January 2011. 
-It is the second-worst perfomance in July since 1991 Great Depression. 
+It is the second-worst performance in July since 1991 Great Depression. 
 
 
-Prices of realestate even in the most lucrative areas are beggining to fall. With morgage rates at ... high. Are there any parallels to 2008? 
-America's pandemic price boom is over. According to Case-Shiller index, prices fell by 1.3 % in August for a second consecutive month. This was the largest drop since March 2009. 
-New home sales decreased by 10.9 % in September. One of the driving factors might be the high prices of morgage when purchasing a new home. 7% rate on a 30 years 
-morgage is the highest it has been in over 20 years. 
+Currently, prices of real estate even in the most lucrative areas are beginning to fall. Are there any parallels to 2008? 
+America's pandemic price boom is over. According to the Case-Shiller index, prices fell by 1.3 % in August for a second consecutive month. This was the largest drop since March 2009. New home sales decreased by 10.9 % in September. One of the driving factors might be the high prices of mortgage when purchasing a new home. 7% rate on a 30 years mortgage is the highest it has been in over 20 years. 
 
 
-> A monthly mortgage on a median-priced home with a 20 down payment went from thirteen hundred dollars a year ago to over twenty three hundred dollars now
-that's an eighty percent increase in payments. Demand for morgages is a half of what it used to be last year and at its lowest from 1997.
+> A monthly mortgage on a median-priced home with a 20 down payment went from thirteen hundred dollars a year ago to over twenty-three hundred dollars now
+that's an eighty per cent increase in payments. Demand for mortgages is half of what it used to be last year and at its lowest from 1997.
 
-The recent interest rate hiking policy of Jerome and Co resulted in what we see happeening with the mortgage rates. That being said, they don;'t seem to be bothered
-with the influence their actions have had on the housing market.  
-In September, Jerome stated "we probably in the housing market have to go through a correction". He also mentioned the slowdown "in housing prices that
-we're seeing should help bring prices more closely in line with rents and other housing market fundamentals and that's a good thing."
-The thing is, FED is not slowing down anytime soon. The last meeting saw another 75 bips increase. 
-The expected hike is around 4.5% - 4.7% in the Q1 2023. This was last time the case in 2007. 
+<sub>Guy, Coinbureaue</sub>
 
-Increased mortgage rates is not the only problem. The first time home buyers might experience problems collecting the first downpaymant as the surging inflation
-decreases purchasing power making saving much more difficult. On the supply side, ...
+The recent interest rate hiking policy of Jerome and Co. resulted in what we see happening with the mortgage rates. That being said, they don't seem to be bothered by the influence their actions have had on the housing market.  
 
-The investment bank Morgan Stanley believes the house prices might fall down 7% until the next year. They also talked a bout a bull market scenario when housing
-prices would decrease by 5% and a bear market one where we would see a decline of 10%. Goldman Sachs updated their last month's estimate of 1.8% rise in prices
-to 5 - 10% fall. Should we get to hitting a recession, the prices might fall 20 to 25% causing lots of pain. We are not excatly at the 2008 armagedon levels
-but the situation is worrying.
+In September, Jerome Powell stated the housing market has to go through a correction. He also mentioned the slowdown "in housing prices that
+we're seeing should help bring prices more closely in line with rents and other housing market fundamentals and that's a good thing." 
+The thing is, FED is not slowing down anytime soon. The last meeting saw another 75 bps increase. The expected hike is around 4.5% - 4.7% in Q1 2023. This was the case last time in 2007. 
 
-Canada's housing market might be one of the buggest housing bubbles in the world. Cities like Vancouver and Toronto have seen prices trippled over the past 25 years.
-Several factors are diriving the prices up here; high immigration levels, increased investment demand and falling mortgage rates. Housing affordability  is a much larger issue in Canada than in the US.
-In 2019 the bank of Canada dropped its benchmark interest rate to 0.25%. Property prices climbed up 17%. Bed deabts are another problematic factor. One third of all mortgaeges 
-consists of varoable mortgages where the rate is fixed only at the beginning and start to fluctuate at a later point. Those who took out those seemingly good deal mortgages
-are now experiencing fluctuations based on the canadian central bank raising the interest following the US FED decissions. 
+Increased mortgage rates are not the only problem. First time home buyers might experience problems collecting the first downpayment as the surging inflation decreases purchasing power makes saving much more difficult. On the supply side, the number of new family houses grew from 25% last year to 29% this year at the same time. The sales of new houses plummeted to a six-year low. 
+
+> ... plunging mortgage applications suggest the collapse will only get worse. Research firm Pantheon Macroeconomists projects monthly new home sales could fall to a ten-year low of 350,000 as soon as this month. - Forbes
+
+The investment bank Morgan Stanley believes the house prices might fall down 7% until the next year. They also talked about a bull market scenario when housing prices would decrease by 5% and a bear market one where we would see a decline of 10%. Goldman Sachs updated their last month's estimate of a 1.8% rise in prices to a 5 - 10% fall. Should we get to hit a recession, the prices might fall 20 to 25% causing lots of pain. We are not exactly at the 2008 armageddon levels but the situation is worrying.
+
+Canada's housing market might be one of the biggest housing bubbles in the world. Cities like Vancouver and Toronto have seen prices tripled over the past 25 years. Several factors are driving the prices up here; high immigration levels, increased investment demand and falling mortgage rates. Housing affordability is a much larger issue in Canada than in the US.
+
+In 2019 the bank of Canada dropped its benchmark interest rate to 0.25%. Property prices climbed up 17%. Bed debts are another problematic factor. One-third of all mortgages consist of variable mortgages where the rate is fixed only at the beginning and starts to fluctuate at a later point. Those who took out those seemingly good deal mortgages are now experiencing fluctuations based on the Canadian central bank raising the interest following the US FED decisions. 
 
 Investors have to rely on rising rental rates to make up for the rising mortgage and servicing rates. Prices in Toronto are now 17% down. 
 
-In the UK, the house prices fell down by 0.1% in August as well as in September. her Chancellor released Trussenko and her Chancelor released a way too optimistic budget without considering 
-the income. The market became extremely confused. 
+In the UK, house prices fell by 0.1% in August as well as in September. her Chancellor released Trussenko and her Chancellor released a way too optimistic budget without considering the income. The market became extremely confused. 
 
 > ... one of the side effects of that budget was that UK government bond yields went soaring. These are the interest rates that mortgage providers
-use to price their fixed rate offerings. Therefore in the wake of that chaotic budget these mortgage products were left in turmoil.
+use to price their fixed-rate offerings. Therefore in the wake of that chaotic budget, these mortgage products were left in turmoil.
 
-Despite the budget being pulled down and a new PM installed, the mortgae rates are slow to adhjust back and lenders are not passing on the low interest rates to those taking out the mortgages.
-Home owners and potential buyers are left with uncertainty, espcecially those who took out fixed mortgages. Fixed rate mortgages in the UK are "fixed" only for the first 2 to 5 years and then they increase. 
+Despite the budget being pulled down and a new PM installed, the mortgage rates are slow to adjust back and lenders are not passing on the low-interest rates to those taking out the mortgages. Homeowners and potential buyers are left with uncertainty, especially those who took out fixed mortgages. Fixed-rate mortgages in the UK are "fixed" only for the first 2 to 5 years and then they increase. 
 
-The bank of ENglanded raised the interest rates by 75 bpt, the biggest interest rates increase in 33 years. The impact on a an average homeovner might be too much to bear. As a result
-they might be forced to sell their home. In end effect, the UK house prices might fall betwenen 10 - 15% according to analysts. 
+The bank of England raised the interest rates by 75 bps, the biggest interest rates increase in 33 years. The impact on an average homeowner might be too much to bear. As a result, they might be forced to sell their home. In the end effect, UK house prices might fall between 10 - 15% according to analysts. 
 
 <iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=cclr&v=202210261556V20220312&d1=20171107&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/canada/interest-rate'>tradingeconomics.com</a>
 
-The global housing market is expeting some large turbulences. The home owners starting with the US and especially Canada are epecting massive corrections. In Canada, this could mean
-a situation similar to the 2008 housing bubble burst in the US. Candaian GDP would take a large hit if this was the case. There is an opportunity hidden for prpspective home owners.
+The global housing market is expecting some large turbulences. The homeowners starting in the US and especially in Canada are expecting massive corrections. In Canada, this could mean a situation similar to the 2008 housing bubble burst in the US. Canadian GDP would take a large hit if this was the case. There is an opportunity hidden for prospective homeowners.
 
-In the UK, the cost of living already increased through a 10% inflation might increase further escpecially for those needing to refinance their mortgage. Let's see if the new PM can do something. 
+In the UK, the cost of living already increased through a 10% inflation might increase further especially for those needing to refinance their mortgage. Let's see if the new PM can do something. 
 
 ## Sources
  
 - [Is Housing Market Crash Coming Soon?](https://www.youtube.com/watch?v=ueqKUCYPDZ4)
 - [Housing Market Confusion](https://www.cnbc.com/2022/09/09/housing-market-confusion-whats-happening-next.html)
+- [Housing Market Recession: Record Share Of Homes For Sale Are New Construction—Here’s What That Means For Buyers](https://www.forbes.com/sites/jonathanponciano/2022/11/08/housing-market-recession-record-share-of-homes-for-sale-are-new-construction-heres-what-that-means-for-buyers/)
