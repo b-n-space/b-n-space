@@ -85,7 +85,7 @@ Despite the budget being pulled down and a new PM installed, the mortgage rates 
 
 The bank of England raised the interest rates by 75 bps, the biggest interest rates increase in 33 years. The impact on an average homeowner might be too much to bear. As a result, they might be forced to sell their home. In the end effect, UK house prices might fall between 10 - 15% according to analysts. 
 
-<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=cclr&v=202210261556V20220312&d1=20171107' height='300' width='100%'  frameborder='0' scrolling='no'></iframe>
+![tradingeconomics.com](https://d3fy651gv2fhd3.cloudfront.net/charts/embed.png?s=cclr&v=202210261556V20220312&d1=20171107&w=960&h=480)
 <br/>Source: <a href='https://tradingeconomics.com/canada/interest-rate'>tradingeconomics.com</a>
 
 The global housing market is expecting some large turbulences. The homeowners starting in the US and especially in Canada are expecting massive corrections. In Canada, this could mean a situation similar to the 2008 housing bubble burst in the US. Canadian GDP would take a large hit if this was the case. There is an opportunity hidden for prospective homeowners.
