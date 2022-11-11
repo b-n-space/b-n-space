@@ -64,7 +64,9 @@ The thing is, FED is not slowing down anytime soon. The last meeting saw another
 
 Increased mortgage rates are not the only problem. First time home buyers might experience problems collecting the first downpayment as the surging inflation decreases purchasing power makes saving much more difficult. On the supply side, the number of new family houses grew from 25% last year to 29% this year at the same time. The sales of new houses plummeted to a six-year low. 
 
-> ... plunging mortgage applications suggest the collapse will only get worse. Research firm Pantheon Macroeconomists projects monthly new home sales could fall to a ten-year low of 350,000 as soon as this month. - Forbes
+> ... plunging mortgage applications suggest the collapse will only get worse. Research firm Pantheon Macroeconomists projects monthly new home sales could fall to a ten-year low of 350,000 as soon as this month.
+
+<sub>Forbes</sub>
 
 The investment bank Morgan Stanley believes the house prices might fall down 7% until the next year. They also talked about a bull market scenario when housing prices would decrease by 5% and a bear market one where we would see a decline of 10%. Goldman Sachs updated their last month's estimate of a 1.8% rise in prices to a 5 - 10% fall. Should we get to hit a recession, the prices might fall 20 to 25% causing lots of pain. We are not exactly at the 2008 armageddon levels but the situation is worrying.
 
@@ -83,7 +85,8 @@ Despite the budget being pulled down and a new PM installed, the mortgage rates 
 
 The bank of England raised the interest rates by 75 bps, the biggest interest rates increase in 33 years. The impact on an average homeowner might be too much to bear. As a result, they might be forced to sell their home. In the end effect, UK house prices might fall between 10 - 15% according to analysts. 
 
-<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=cclr&v=202210261556V20220312&d1=20171107&h=300&w=600' height='300' width='600'  frameborder='0' scrolling='no'></iframe><br />source: <a href='https://tradingeconomics.com/canada/interest-rate'>tradingeconomics.com</a>
+<iframe src='https://d3fy651gv2fhd3.cloudfront.net/embed/?s=cclr&v=202210261556V20220312&d1=20171107' height='300' width='100%'  frameborder='0' scrolling='no'></iframe>
+<br/>Source: <a href='https://tradingeconomics.com/canada/interest-rate'>tradingeconomics.com</a>
 
 The global housing market is expecting some large turbulences. The homeowners starting in the US and especially in Canada are expecting massive corrections. In Canada, this could mean a situation similar to the 2008 housing bubble burst in the US. Canadian GDP would take a large hit if this was the case. There is an opportunity hidden for prospective homeowners.
 
