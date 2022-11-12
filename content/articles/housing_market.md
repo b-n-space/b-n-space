@@ -76,12 +76,14 @@ The investment bank Morgan Stanley believes the house prices might fall down 7% 
 
 ## Is Canadian Housing Market Approaching the 2008 US Scenario?
 
-Canada's housing market might be one of the biggest housing bubbles in the world. Cities like Vancouver and Toronto have seen prices tripled over the past 25 years. Several factors are driving the prices up here; high immigration levels, increased investment demand and falling mortgage rates. Housing affordability is a much larger issue in Canada than in the US.
+Canada's housing market might be one of the biggest housing bubbles in the world. Cities like Vancouver and Toronto have seen prices tripled over the past 25 years. Several factors are driving the prices up here; high immigration levels, increased investment demand and falling mortgage rates. Housing affordability became a much larger issue in Canada than in the US.
+
+In 2019 the bank of Canada dropped its benchmark interest rate to 0.25%. As a result, property prices climbed up 17%. 
 
 ![tradingeconomics.com](https://d3fy651gv2fhd3.cloudfront.net/charts/embed.png?s=cclr&v=202210261556V20220312&d1=20171107&w=960&h=480)
 <br/>Source: <a href='https://tradingeconomics.com/canada/interest-rate'>tradingeconomics.com</a>
 
-In 2019 the bank of Canada dropped its benchmark interest rate to 0.25%. Property prices climbed up 17%. Bad debts are another problematic factor. One-third of all mortgages consist of variable mortgages where the rate is fixed only at the beginning and starts to fluctuate at a later point. Those who took out those seemingly good deal mortgages are now experiencing fluctuations based on the Canadian central bank raising the interest following the US FED decisions. 
+Bad debts are another problematic factor. One-third of all mortgages consist of variable mortgages where the rate is fixed only at the beginning and starts to fluctuate at a later point. Those who took out those seemingly good deal mortgages are now experiencing fluctuations based on the Canadian central bank raising the interest following the US FED decisions. 
 
 Investors have to rely on rising rental rates to make up for the rising mortgage and servicing rates. 
 
@@ -90,7 +92,7 @@ Investors have to rely on rising rental rates to make up for the rising mortgage
 In the UK, house prices fell by 0.1% in August as well as in September. her Chancellor released Trussenko and her Chancellor released a way too optimistic budget without considering the income. The market became extremely confused. 
 
 > ... one of the side effects of that budget was that UK government bond yields went soaring. These are the interest rates that mortgage providers
-use to price their fixed-rate offerings. Therefore in the wake of that chaotic budget, these mortgage products were left in turmoil.
+> use to price their fixed-rate offerings. Therefore in the wake of that chaotic budget, these mortgage products were left in turmoil.
 
 <sub>Guy, Coinbureaue</sub>
 
