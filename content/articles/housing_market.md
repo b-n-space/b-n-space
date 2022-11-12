@@ -19,29 +19,32 @@ draft: false
 ---
 
 
-In the summer, the media started reporting about housing market confusion and fears of a collapse. The interest to buy houses dropped by large mainly because of rising mortgage rates. 
+In the summer, the media started reporting about housing market confusion and fears of a collapse. The interest to buy houses dropped by large mainly because of rising mortgage rates. For example the 30-year fixed mortgage, one of the most popular home financing products in the US, increased from 3% to 6% from the beginning of this year.
 
 > As recession concerns weigh on consumer outlooks, our survey shows uncertainty has made its way into the minds of many buyers.
 
 <sub>Danielle Hale, chief economist at Realtor.com</sub>
 
 
-According to CNBC, the 30-year fixed mortgage, one of the most popular home financing products in the US, increased from 3% to 6% from the beginning of this year.
-
 
 ## Higher Prices and Low Supply
 
-In September, prices were 43% higher than at the start of the covid pandemic.
-Supply of homes grew 27% from the last year, still not enough to cover the years-long shortage of homes
-Most recently house construction has slowed down because of material price increase.
+This September, prices were 43% higher than at the start of the covid pandemic.
+Supply of homes grew 27% from the same period last year, still not enough to cover the years-long shortage of homes.
+House construction slowed down first because of material price increase.
 
-Homebuilders are slowing down the production of new houses as a response to fewer potential buyers touring model houses.
+> Building materials prices increased 20.4% year over year and have risen 33% since the start of the pandemic.
+
+![Price of Inputs to Residnetial Construction](https://user-images.githubusercontent.com/59807305/201486395-0d8b88a4-adb7-44d3-98ef-c640f09a6174.jpg)
+
+<sub>National Association of Home Builders</sub>
+
 
 > Tighter monetary policy from the Federal Reserve and persistently elevated construction costs have brought on a housing recession.
 
 <sub>CNBC</sub>
 
-
+Most recently, homebuilders are slowing down the production of new houses as a response to fewer potential buyers touring model houses.
 Data shows buyers didn't disappear entirely, some are using the thinning competition and some are exploring smaller markets.
 Home prices are cooling off. The decline in prices of .77% from June to July is the largest single-month decline since January 2011. 
 It is the second-worst performance in July since 1991 Great Depression. 
@@ -51,10 +54,11 @@ Currently, prices of real estate even in the most lucrative areas are beginning 
 America's pandemic price boom is over. According to the Case-Shiller index, prices fell by 1.3 % in August for a second consecutive month. This was the largest drop since March 2009. New home sales decreased by 10.9 % in September. One of the driving factors might be the high prices of mortgage when purchasing a new home. 7% rate on a 30 years mortgage is the highest it has been in over 20 years. 
 
 
-> A monthly mortgage on a median-priced home with a 20 down payment went from thirteen hundred dollars a year ago to over twenty-three hundred dollars now
-that's an eighty per cent increase in payments. Demand for mortgages is half of what it used to be last year and at its lowest from 1997.
+> A monthly mortgage on a median-priced home with a 20 down payment went from thirteen hundred dollars a year ago to over twenty-three hundred dollars now. That's an eighty per cent increase in payments. 
 
 <sub>Guy, Coinbureaue</sub>
+
+Demand for mortgages is half of what it used to be last year and at its lowest from 1997.
 
 The recent interest rate hiking policy of Jerome and Co. resulted in what we see happening with the mortgage rates. That being said, they don't seem to be bothered by the influence their actions have had on the housing market.  
 
