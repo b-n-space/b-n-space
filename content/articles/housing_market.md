@@ -46,7 +46,7 @@ House construction slowed down first because of material price increase.
 
 Most recently, homebuilders are slowing down the production of new houses as a response to fewer potential buyers touring model houses.
 Data shows buyers didn't disappear entirely, some are using the thinning competition and some are exploring smaller markets.
-Home prices are cooling off. The decline in prices of .77% from June to July is the largest single-month decline since January 2011. 
+Home prices are cooling off. The decline in prices of 0.77% from June to July is the largest single-month decline since January 2011. 
 It is the second-worst performance in July since 1991 Great Depression. 
 
 
@@ -87,9 +87,9 @@ Bad debts are another problematic factor. One-third of all mortgages consist of 
 
 Investors have to rely on rising rental rates to make up for the rising mortgage and servicing rates. 
 
-## Market Confusion in the UK
+## UK Market Confusion 
 
-In the UK, house prices fell by 0.1% in August as well as in September. her Chancellor released Trussenko and her Chancellor released a way too optimistic budget without considering the income. The market became extremely confused. 
+In the UK, house prices fell by 0.1% in August as well as in September. Trussenko and her Chancellor released a way too optimistic budget without considering the income. The market became extremely confused. 
 
 > ... one of the side effects of that budget was that UK government bond yields went soaring. These are the interest rates that mortgage providers
 > use to price their fixed-rate offerings. Therefore in the wake of that chaotic budget, these mortgage products were left in turmoil.
