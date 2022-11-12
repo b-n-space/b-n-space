@@ -89,7 +89,7 @@ Investors have to rely on rising rental rates to make up for the rising mortgage
 
 ## UK Market Confusion 
 
-In the UK, house prices fell by 0.1% in August as well as in September. Trussenko and her Chancellor released a way too optimistic budget without considering the income. The market became extremely confused. 
+In the UK, house prices fell by 0.1% in August as well as in September. Truss and her Chancellor released a way too optimistic budget without considering the income. The market became extremely confused. 
 
 > ... one of the side effects of that budget was that UK government bond yields went soaring. These are the interest rates that mortgage providers
 > use to price their fixed-rate offerings. Therefore in the wake of that chaotic budget, these mortgage products were left in turmoil.
