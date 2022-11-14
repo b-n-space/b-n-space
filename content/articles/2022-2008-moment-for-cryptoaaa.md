@@ -5,9 +5,10 @@ img: https://user-images.githubusercontent.com/1257310/201781412-d6744116-a3e0-4
 alt: Photo by Spencer Platt/Getty Images
 author:
   name: Nour
-  bio: |
+  bio: |-
     🐍 Automation robot
     🐳 Containers fanatic
+    🐺 Space wolf
   img: /authors/nour.png
 tags:
   - bitcoin
