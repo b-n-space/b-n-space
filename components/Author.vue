@@ -6,10 +6,10 @@
     >
       <img v-if="author.img" class="h-48 xxlmin:w-1/2 xxlmax:w-full object-cover" :src="author.img" />
       <div class="flex flex-col m-4">
-        <h4 class="font-semibold">Author</h4>
-
-        <p>{{ author.name }}</p>
-        <p>{{ author.bio }}</p>
+        <!--        <h4 class="font-semibold">Author</h4>-->
+        <h4 class="font-semibold">{{ author.name }}</h4>
+        <br />
+        <p style="white-space: pre">{{ author.bio }}</p>
       </div>
     </NuxtLink>
   </div>
