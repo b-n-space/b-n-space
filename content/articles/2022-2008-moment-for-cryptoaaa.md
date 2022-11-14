@@ -25,7 +25,7 @@ I heard this term multiple times today only. It seems everyone is having some fl
 Bitcoin is hovering at $16.5k and everyone is in disbelief. We thought it would never ever go below $20k. All top maxis
 swore Satoshi that [$17.5k was the bottom][btc-bottom], but it wasn't, obviously!
 
-![Bitcoin range](https://user-images.githubusercontent.com/1257310/201778503-75c2410c-a03e-4ad9-bab8-e458211a3dde.png)
+![Bitcoin dip to $16.5k](https://user-images.githubusercontent.com/1257310/201778503-75c2410c-a03e-4ad9-bab8-e458211a3dde.png)
 
 Benjamin Cowen thinks the real [alt coins reckoning is yet to happen][alts]. Meaning we would see ALTs bleed crazily
 against Bitcoin
@@ -36,16 +36,16 @@ and therefore against the USD.
 I'm checking some [technical analysis guys][ta-guys], and we are now casually talking about a Bitcoin range between $3k
 and $20k, Yup! **3000 Uncle Sam Dollar per Orange Coin**!
 
-![Ethereum range](https://user-images.githubusercontent.com/1257310/201779602-9033c5bd-48cb-4185-99f8-3168ff8bdaab.png)
+![Bitcoin range](https://user-images.githubusercontent.com/1257310/201779602-9033c5bd-48cb-4185-99f8-3168ff8bdaab.png)
 
 As for Ethereum, which represents the ALTs, the range would be $100 and $1k. The issue with these ranges isn't that they
 are low, the real issue is how long we stay in them. A couple of years to a decade, I would hear and somehow believe.
 
-<img width="1348" alt="image" src="https://user-images.githubusercontent.com/1257310/201779753-4e5314d1-33d1-405b-a99e-b1046a864616.png">
+![Ethereum range](https://user-images.githubusercontent.com/1257310/201779753-4e5314d1-33d1-405b-a99e-b1046a864616.png)
 
 ## Uncharted Area And Unprecedented Times For Crypto
 
-Crypto markets have never entered a recessionary period where stocks are down, inflation is up, currencies is acting
+Crypto markets have never entered a recessionary period where stocks are down, inflation is up, currencies are acting
 like shitcoins, and commodities are ridiculously priced as they are today.
 
 ![Image by Tumisu from Pixabay](https://user-images.githubusercontent.com/1257310/201781898-465b5f75-f6a1-463c-b31b-e9bd1ca6d8b3.jpeg)
