@@ -22,22 +22,24 @@ I heard this term multiple times today only. It seems everyone is having some fl
 ## Is this really happening?
 
 Bitcoin is hovering at $16.5k and everyone is in disbelief. We thought it would never ever go below $20k. All top maxis
-swore Satoshi that $17.5k was the bottom, but it wasn't, obviously!
+swore Satoshi that [$17.5k was the bottom][btc-bottom], but it wasn't, obviously!
 
-[chart]
+<img width="1193" alt="image" src="https://user-images.githubusercontent.com/1257310/201778503-75c2410c-a03e-4ad9-bab8-e458211a3dde.png">
 
-Ben Cowen thinks the real alt coins reckoning is happening soon. Meaning we would see ALTs bleed crazily against Bitcoin
+Benjamin Cowen thinks the real [alt coins reckoning is yet to happen][alts]. Meaning we would see ALTs bleed crazily against Bitcoin
 and therefore against the USD.
 
 ## TAs, TAs, Everywhere...
 
-I'm checking some technical analysis guys, and we are now casually talking about a Bitcoin range between $3k and $20k,
+I'm checking some [technical analysis guys][ta-guys], and we are now casually talking about a Bitcoin range between $3k and $20k,
 Yup! $3000 per orange coin!
+
+<img width="1341" alt="image" src="https://user-images.githubusercontent.com/1257310/201779602-9033c5bd-48cb-4185-99f8-3168ff8bdaab.png">
 
 As for Ethereum, which represents the ALTs, the range would be $100 and $1k. The issue with these ranges isn't that they
 are low, the real issue is how long we stay in them. A couple of years to a decade, I would hear and somehow believe.
 
-[charts]
+<img width="1348" alt="image" src="https://user-images.githubusercontent.com/1257310/201779753-4e5314d1-33d1-405b-a99e-b1046a864616.png">
 
 ## Uncharted area and unprecedented times for crypto
 
@@ -103,3 +105,6 @@ Finally
 - Wait & Win!
 
 [units]: https://en.bitcoin.it/wiki/Units
+[alts]: https://www.youtube.com/watch?v=-LGeRPEJE54
+[btc-bottom]: https://youtu.be/AIbnO1lQd5E
+[ta-guys]: https://www.youtube.com/watch?v=1wbvluXkgAY
