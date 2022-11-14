@@ -81,18 +81,18 @@ dust, golden kinda dust, [sats, finneys, bits, all the way up][units].
 As for stocks, I personally think we are good owning Bitcoin. We don't know which company is going to make it and the
 ETFs are in no way risk-free after everyone has poured their life savings into them over the last decade.
 
-## Tough But Amazing Times Ahead!
+## Tough But Amazing Times Ahead ⚠️
 
-Really tough times ahead with so many unknowns. I would not be surprised if even well-funded VCs started going out of
-business should this bear continues for years, or at least if they or their clients believe it would, and they start
-pulling out.
+Really tough times are ahead of us with so many unknowns. I would not be surprised if even well-funded VCs started going
+out of business should this bear continues for years, or at least if they or their clients believe it would, and they
+start pulling out.
 
 Looking for more stable streams of income is a high priority moving forward. Securing a good paying day job
 or settling in a cheap country and offering remote consultancy services are a few things to do.
 
 Building anything in these times is tremendously valuable and would have unimaginable returns when the time is right.
 
-## Time For Action!
+## Time For Action ☑️
 
 To summarize the action points of the next planning phase—my own planning phase, but would love if you also have one.
 
