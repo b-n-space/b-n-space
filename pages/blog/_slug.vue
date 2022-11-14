@@ -62,7 +62,7 @@
       <!-- content from markdown -->
       <nuxt-content :document="article" class="prose prose-sm sm:prose lg:prose-lg xl:prose-2xl" />
       <!-- content author component -->
-      <author :author="article.author" />
+      <Author :author="article.author" />
       <!-- prevNext component -->
       <PrevNext :prev="prev" :next="next" class="mt-8" />
     </div>
