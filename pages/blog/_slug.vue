@@ -14,7 +14,7 @@
           <span class="mr-3">•</span>
           <p>{{ article.author.name }}</p>
         </div>
-        <h1 class="text-6xl font-bold text-shadow-xl">{{ article.title }}</h1>
+        <h1 class="hidden lg:block text-6xl font-bold text-shadow-xl">{{ article.title }}</h1>
         <span v-for="(tag, id) in tags" :key="id">
           <NuxtLink :to="`/blog/tag/${tag.slug}`">
             <span
