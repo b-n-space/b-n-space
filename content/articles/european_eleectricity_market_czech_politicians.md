@@ -18,7 +18,7 @@ date: 2022-09-26T09:00:00.000Z
 draft: false
 ---
 
-In the Czech talk show **Qoestions by Václav Moravec**, the local industry and trade minister Jozef Síkela and his predecessor Karel Havlíček discussed measures for tackling the high energy prices in Europe. 
+In the Czech talk show **Questions by Václav Moravec**, the local industry and trade minister Jozef Síkela and his predecessor Karel Havlíček discussed measures for tackling the high energy prices in Europe. 
 
 Following are highlights translated from the original article on CT24. 
 
