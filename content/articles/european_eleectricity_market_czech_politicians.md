@@ -1,5 +1,5 @@
 ---
-title: Is the end of the EU electricity market as we know it in sight? 
+title: Is The End Of The EU Electricity Market As We Know It In Sight? 
 description: Czech politicians publicly discussed the European energy stock exchange
 img: https://user-images.githubusercontent.com/59807305/197044984-ea3bc50e-5ed9-4ce0-97e6-9eb6cc673db1.jpg
 alt: Image by Ahmad Ardity from Pixabay 
@@ -17,10 +17,6 @@ tags:
 date: 2022-09-26T09:00:00.000Z
 draft: false
 ---
-
-In the czech show **Qoestions by Václav Moravec**, the local industry and trade minister Jozef Síkela and his predecessor Karel Havlíček discussed measures for tackling the high energy prices in Europe. 
-
-Following are highlights translated from the original article on ct24. 
 
 In the Czech talk show **Qoestions by Václav Moravec**, the local industry and trade minister Jozef Síkela and his predecessor Karel Havlíček discussed measures for tackling the high energy prices in Europe. 
 
@@ -42,7 +38,7 @@ New energy concept and new gas supplies to the Czech Republic
 Síkela also stated on the programme, without further details, that he was preparing a completely new energy concept. He criticized that previous governments have not come up with any changes in the energy mix since 2015. He mentioned that the share of renewables was decreasing. 
 
 
-Sikel mentioned that his ministry is now working on new gas supplies to the Czech Republic. He is also planning to expand the capacity of the TAL pipeline so that we can wean ourselves off the Druzhba pipeline. Although the Czech Republic is ready to finance this itself (at a cost of about CZK 1.5 billion), it hopes to get European money for it.
+Síkela mentioned that his ministry is now working on new gas supplies to the Czech Republic. He is also planning to expand the capacity of the TAL pipeline so that we can wean ourselves off the Druzhba pipeline. Although the Czech Republic is ready to finance this itself (at a cost of about CZK 1.5 billion), it hopes to get European money for it.
 
 
 The Czech Republic has also resumed cooperation with Poland on the Stork II pipeline, which would link the two countries. The minister estimated the cost of this at eight billion.
