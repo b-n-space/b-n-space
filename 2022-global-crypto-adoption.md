@@ -14,11 +14,12 @@ tags:
   - adoption
   - crypto
   - global
-date: 2022-12-13T09:00:00.000Z
+date: 2022-12-24T09:00:00.000Z
 draft: false
 ---
 
-On September 14, ... firm Chainanalysis released for a third consecutive year a report covering crypto adoption around the globe. 
+On September 14, the blockchain data platform Chainanalysis released for a third consecutive year a report covering crypto adoption around the globe. 
+ 
 
 ## Index
 
@@ -32,6 +33,10 @@ The closer the final score is to 1, the higher the rank. The sub-indexes are cal
 These sub-indexes measure on-chain value received at centralized exchanges, on-chain retail value received at centralized exchanges, peer-to-peer exchange trade volume, 
 wallet user share, and offline cryptocurrency payments per capita.
 
+
+![bitcoin_and_crypto_adoption]: https://user-images.githubusercontent.com/59807305/209447942-2ca50c5e-1a08-4b7b-888b-4d4e4c32179c.png
+
+
 The sub-indexes that make up the Global Crypto Adoption Index are:
 
 On-chain cryptocurrency value received at centralized exchanges, weighted by purchasing power parity (PPP) per capita: 
@@ -42,9 +47,9 @@ On-chain retail value received at centralized exchanges, weighted by PPP per cap
 This metric measures the activity of individual, non-professional cryptocurrency users at centralized services, 
 based on the amount of cryptocurrency they are transacting compared to the wealth of the average person.
 
-Peer-to-peer (P2P) exchange trade volume, weighted by PPP per capita and number of internet users: 
-This sub-index ranks countries by their P2P trade volume and weights it based on the country's PPP per capita and number of internet users, 
-in order to highlight countries where more residents are putting a larger share of their wealth into P2P cryptocurrency transactions.
+Peer-to-peer (P2P) exchange trade volume, weighted by PPP per capita and the number of internet users: 
+These sub-index ranks countries by their P2P trade volume and weights it based on the country's PPP per capita and number of internet users, 
+to highlight countries where more residents are putting a larger share of their wealth into P2P cryptocurrency transactions.
 
 Wallet user share: 
 This sub-index ranks countries based on the estimated number of cryptocurrency wallet users relative to the country's internet population.
@@ -55,11 +60,6 @@ It is intended to highlight countries where cryptocurrency is being used for eve
 
 
 
-I'm checking some [technical analysis guys][ta-guys], and we are now casually talking about a Bitcoin range between $3k
-and $20k, Yup! **3000 Uncle Sam Dollar per Orange Coin**!
-
 
 ## Resources
-
-
 [ta-guys]: https://www.youtube.com/watch?v=1wbvluXkgAY
