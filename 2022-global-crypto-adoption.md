@@ -4,7 +4,6 @@ description: How far and wide did crypto reach before the FTX started an apocaly
 img: https://user-images.githubusercontent.com/59807305/207385519-b5d1ce24-6bc5-4149-9d43-5357a1d0017c.jpeg
 alt: Graphic by Chainanalysis 
 author:
-author: 
   name: B. Antonia
   bio: |
     Neuroscience student 🧠
@@ -18,7 +17,7 @@ date: 2022-12-24T09:00:00.000Z
 draft: false
 ---
 
-On September 14, the blockchain data platform Chainanalysis released for a third consecutive year a report covering crypto adoption around the globe. 
+> On September 14, the blockchain data platform Chainanalysis released for a third consecutive year a report covering crypto adoption around the globe. 
  
 
 ## Index
@@ -34,10 +33,10 @@ These sub-indexes measure on-chain value received at centralized exchanges, on-c
 wallet user share, and offline cryptocurrency payments per capita.
 
 
-![bitcoin_and_crypto_adoption]: https://user-images.githubusercontent.com/59807305/209447942-2ca50c5e-1a08-4b7b-888b-4d4e4c32179c.png
+![bitcoin and crypto adoption](https://user-images.githubusercontent.com/59807305/209447942-2ca50c5e-1a08-4b7b-888b-4d4e4c32179c.png)
 
 
-The sub-indexes that make up the Global Crypto Adoption Index are:
+#### The sub-indexes that make up the Global Crypto Adoption Index are:
 
 On-chain cryptocurrency value received at centralized exchanges, weighted by purchasing power parity (PPP) per capita: 
 This sub-index ranks countries by total cryptocurrency activity on centralized services and weights the rankings based on the wealth of the average person 
@@ -59,7 +58,5 @@ This sub-index measures the estimated number of cryptocurrency payments made off
 It is intended to highlight countries where cryptocurrency is being used for everyday transactions.
 
 
-
-
 ## Resources
-[ta-guys]: https://www.youtube.com/watch?v=1wbvluXkgAY
+- [Chainanalysis blogpost](https://blog.chainalysis.com/reports/2022-global-crypto-adoption-index/)
