@@ -51,7 +51,12 @@
 <script setup lang="ts">
 const route = useRoute();
 const { data: articles } = await useAsyncData(
-  "get-author-articles",
-  () => queryContent("articles").where({ "author.name": { $icontains: route.params.name } }).where({ draft: { $ne: true } }).without("body").sort({ date: -1 }).find()
+  `get-author-articles-${route.params.name}`,
+  () => queryContent("articles")
+    .where({ "author.name": { $icontains: route.params.name } })
+    .where({ draft: { $ne: true } })
+    .without("body")
+    .sort({ date: -1 })
+    .find()
 );
 </script>

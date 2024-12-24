@@ -73,7 +73,7 @@ const route = useRoute()
 
 console.debug({ slug: route.params.slug })
 const { data: article } = await useAsyncData(
-  'get-article',
+  `get-article-${route.params.slug}`,
   () => queryContent('articles')
     .where({ _path: { $contains: route.params.slug } })
     .where({ draft: { $ne: true } })
@@ -83,7 +83,7 @@ const { data: article } = await useAsyncData(
 console.debug({ article: article.value })
 console.debug({ articleTags: [...article.value.tags] })
 const { data: tags } = article.value.tags ? await useAsyncData(
-  'get-article-tags',
+  `get-article-${route.params.slug}-tags`,
   () => queryContent('tags')
     .only(['name', '_stem'])
     .where({ name: { $containsAny: [...article.value.tags] } })
@@ -93,7 +93,7 @@ console.debug({ tags: [...tags.value] })
 
 
 const { data: { value: [prev, next] } } = await useAsyncData(
-  'get-article-prev-next',
+  `get-article-${route.params.slug}-prev-next`,
   () => queryContent('articles')
     .only(['title', '_stem'])
     .where({ draft: { $ne: true } })
@@ -129,7 +129,7 @@ useHead({
 }
 
 .icon.icon-link {
-  background-image: url('~assets/svg/icon-hashtag.svg');
+  background-image: url('~/assets/svg/icon-hashtag.svg');
   display: inline-block;
   width: 20px;
   height: 20px;

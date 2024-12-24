@@ -51,23 +51,23 @@
 </template>
 
 <script setup lang="ts">
-const route = useRoute()
+const route = useRoute();
 
 const { data: tag } = await useAsyncData(
-  'get-tag',
-  () => queryContent('tags')
+  `get-tag-${route.params.name}`,
+  () => queryContent("tags")
     .where({ name: { $contains: route.params.name } })
     .where({ draft: { $ne: true } })
-    .findOne(),
-)
+    .findOne()
+);
 
 const { data: articles } = await useAsyncData(
-  'get-tag-articles',
-  () => queryContent('articles').
-    where({ 'tags': { $icontains: route.params.name } }).
-    where({ draft: { $ne: true } }).
-    without('body').
-    sort({ date: -1 }).
-    find(),
-)
+  `get-tag-articles-${route.params.name}`,
+  () => queryContent("articles")
+    .where({ "tags": { $icontains: route.params.name } })
+    .where({ draft: { $ne: true } })
+    .without("body")
+    .sort({ date: -1 })
+    .find()
+);
 </script>

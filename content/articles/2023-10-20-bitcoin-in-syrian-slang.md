@@ -1,7 +1,7 @@
 ---
 title: البيتكوين بالعامي
 description: في ليلة مكتملة الضياء, قمت بحملة توعوية شعواء, اشرح فيها البيتكوين, للأهل والأقارب والأصدقاء
-img: https://github.com/b-n-space/b-n-space/assets/1257310/bc088589-4967-49a5-9a41-e647c6c21ee2
+img: /images/bitcoin-sun.jpeg
 alt: Bitcoin Cell as seen somewhere on Nostr
 author:
   name: Nour
@@ -48,9 +48,9 @@ draft: false
 وللناس الي ابدا ما بتقرا انجليزي بعتلهن كتيب
 اسمه [كتاب بيتكوين الصغير](https://bitcoinarabic.org/little-bitcoin-book/)
 
-![Which books am I still missing?](https://i.redd.it/qtch1yx9x6ub1.jpg)
+![You need conviction to hodl. How do you gain conviction? You study](/images/bitcoin-books.jpeg)
 
-> [عينة من الكتب المتعلقة بتاريخ وبرمجة واقتصاد البيتكوين](https://www.reddit.com/r/Bitcoin/comments/177smzx/which_books_am_i_still_missing/)
+> [عينة من الكتب المتعلقة بتاريخ وبرمجة واقتصاد البيتكوين](https://x.com/SusieBdds/status/1861237108113056124)
 
 ## طيب شرحلنا كمان!؟
 
