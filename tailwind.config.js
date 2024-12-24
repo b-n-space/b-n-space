@@ -55,5 +55,9 @@ module.exports = {
     },
   },
   variants: {},
-  plugins: [require('@tailwindcss/typography'), require('tailwindcss-textshadow')],
+  plugins: [
+    // https://github.com/tailwindlabs/tailwindcss-typography
+    require('@tailwindcss/typography'),
+    // https://github.com/iunteq/tailwindcss-textshadow
+    require('tailwindcss-textshadow')],
 }

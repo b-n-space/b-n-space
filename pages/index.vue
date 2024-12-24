@@ -1,12 +1,12 @@
 <template>
   <div class="m-8">
     <TheHeader />
-
     <h1 class="font-bold text-4xl">Blog Posts</h1>
     <ul class="flex flex-wrap">
-      <li v-for="article of articles" :key="article.slug" class="xs:w-full md:w-1/2 px-2 xs:mb-6 md:mb-12 article-card">
+      <li v-for="article of articles" :key="article._path"
+          class="xs:w-full md:w-1/2 px-2 xs:mb-6 md:mb-12 article-card">
         <NuxtLink
-          :to="{ name: 'blog-slug', params: { slug: article.slug } }"
+          :to="{ name: 'blog-slug', params: { slug: $slug(article) } }"
           class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md xxlmax:flex-col"
         >
           <img v-if="article.img" class="h-48 xxlmin:w-1/2 xxlmax:w-full object-cover" :src="article.img" />
@@ -15,7 +15,7 @@
             <h2 class="font-bold">{{ article.title }}</h2>
             <p>
               <span class="text-gray-700">{{ article.author.name }}</span>
-              <span class="text-gray-500 float-right">{{ $formatDate(article.date) }}</span>
+              <span class="text-gray-500 float-right">{{ $articleDate(article) }}</span>
             </p>
             <p class="font-bold text-gray-600 text-sm">
               {{ article.description }}
@@ -40,27 +40,31 @@
     <footer class="flex justify-center border-gray-500 border-t-2">
       <p class="mt-4">
         Created with
-        <a href="https://nuxtjs.org/blog/creating-blog-with-nuxt-content" class="font-bold hover:underline">NuxtJS</a>
+        <a href="https://content.nuxt.com" class="font-bold hover:underline">NuxtContent</a>
       </p>
     </footer>
   </div>
 </template>
 
-<script>
-export default {
-  async asyncData({ $content, params }) {
-    const articles = await $content('articles')
-      .where({ draft: { $ne: true } })
-      .only(['title', 'description', 'img', 'slug', 'author', 'date'])
-      .sortBy('date', 'desc')
-      .fetch()
-    const tags = await $content('tags').only(['name', 'description', 'img', 'slug']).sortBy('createdAt', 'asc').fetch()
-    return {
-      articles,
-      tags,
-    }
-  },
-}
+<script setup lang="ts">
+
+const { data: articles } = await useAsyncData(
+  'get-articles',
+  () => queryContent('articles')
+    .only(['title', 'description', 'img', '_stem', 'author', 'date'])
+    .where({ draft: { $ne: true } })
+    .sort({ 'date': -1 })
+    .find(),
+)
+
+const { data: tags } = await useAsyncData(
+  'get-tags',
+  () => queryContent('tags')
+    .only(['name', 'description', 'img', '_stem'])
+    .sort({ date: 1 })
+    .find(),
+)
+
 </script>
 
 <style class="postcss">

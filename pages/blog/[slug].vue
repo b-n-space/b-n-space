@@ -9,14 +9,14 @@
         </NuxtLink>
         <div class="mt-16 -mb-3 flex uppercase text-sm text-shadow-xl">
           <p class="mr-3">
-            {{ $formatDate(article.date) }}
+            {{ $articleDate(article) }}
           </p>
           <span class="mr-3">•</span>
           <p>{{ article.author.name }}</p>
         </div>
         <h1 class="hidden lg:block text-6xl font-bold text-shadow-xl">{{ article.title }}</h1>
-        <span v-for="(tag, id) in tags" :key="id">
-          <NuxtLink :to="`/blog/tag/${tag.slug}`">
+        <span v-for="tag in tags" :key="tag._stem">
+          <NuxtLink :to="`/blog/tag/${tag.name}`">
             <span
               class="truncate uppercase tracking-wider font-medium text-ss px-2 py-1 rounded-full mr-2 mb-2 border border-light-border dark:border-dark-border transition-colors duration-300 ease-linear"
             >
@@ -36,7 +36,7 @@
       class="relative xs:py-8 xs:px-8 lg:py-32 lg:px-16 lg:w-1/2 xs:w-full h-full overflow-y-scroll markdown-body post-right custom-scroll"
     >
       <h1 class="font-bold text-4xl">{{ article.title }}</h1>
-      <p class="pb-4">Post last updated: {{ $formatDate(article.updatedAt) }}</p>
+      <p v-if="$articleDate(article)" class="pb-4">Post last updated: {{ $articleDate(article) }}</p>
       <!-- table of contents -->
       <nav v-if="article.showToc" class="pb-6">
         <ul>
@@ -54,13 +54,13 @@
                 'py-2': link.depth === 2,
                 'ml-2 pb-2': link.depth === 3,
               }"
-              >{{ link.text }}
+            >{{ link.text }}
             </nuxtLink>
           </li>
         </ul>
       </nav>
       <!-- content from markdown -->
-      <nuxt-content :document="article" class="prose prose-sm sm:prose lg:prose-lg xl:prose-2xl" />
+      <ContentRenderer :value="article" class="prose prose-sm sm:prose lg:prose-lg xl:prose-2xl"></ContentRenderer>
       <!-- content author component -->
       <Author :author="article.author" />
       <!-- prevNext component -->
@@ -68,48 +68,50 @@
     </div>
   </article>
 </template>
-<script>
-export default {
-  async asyncData({ $content, params }) {
-    const article = await $content('articles', params.slug)
-      .where({ draft: { $ne: true } })
-      .fetch()
-    let tags
-    // Fallback for tags
-    if (article.tags) {
-      const tagsList = await $content('tags')
-        .only(['name', 'slug'])
-        .where({ name: { $containsAny: article.tags } })
-        .fetch()
-      tags = Object.assign({}, ...tagsList.map((s) => ({ [s.name]: s })))
-    } else {
-      article.tags = []
-      tags = []
-    }
-    const [prev, next] = await $content('articles')
-      .where({ draft: { $ne: true } })
-      .only(['title', 'slug'])
-      .sortBy('createdAt', 'asc')
-      .surround(params.slug)
-      .fetch()
-    return {
-      article,
-      tags,
-      prev,
-      next,
-    }
-  },
-  head() {
-    return {
-      title: `${this.article.title} | Bᴺ Space`,
-      meta: [
-        { hid: 'description', name: 'description', content: this.article.description || '' },
-        { hid: 'og-image', name: 'og:image', content: this.article.img || '' },
-      ],
-    }
-  },
-  methods: {},
-}
+<script setup lang="ts">
+const route = useRoute()
+
+console.debug({ slug: route.params.slug })
+const { data: article } = await useAsyncData(
+  'get-article',
+  () => queryContent('articles')
+    .where({ _path: { $contains: route.params.slug } })
+    .where({ draft: { $ne: true } })
+    .findOne(),
+)
+
+console.debug({ article: article.value })
+console.debug({ articleTags: [...article.value.tags] })
+const { data: tags } = article.value.tags ? await useAsyncData(
+  'get-article-tags',
+  () => queryContent('tags')
+    .only(['name', '_stem'])
+    .where({ name: { $containsAny: [...article.value.tags] } })
+    .find(),
+) : { data: [] }
+console.debug({ tags: [...tags.value] })
+
+
+const { data: { value: [prev, next] } } = await useAsyncData(
+  'get-article-prev-next',
+  () => queryContent('articles')
+    .only(['title', '_stem'])
+    .where({ draft: { $ne: true } })
+    .sort({ date: 1 })
+    // .find()
+    .findSurround(article.value._path),
+)
+console.debug({ prev, next })
+
+useHead({
+  title: `${article.value.title} | Bᴺ Space`,
+  meta: [
+    { name: 'description', content: article.value.description || '' },
+    { name: 'og:image', content: article.value.img || '' },
+  ],
+  link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+})
+
 </script>
 <style>
 .nuxt-content p {
