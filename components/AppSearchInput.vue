@@ -11,9 +11,9 @@
       v-if="articles.length"
       class="z-10 absolute w-auto flex-1 top-40 bg-white dark:bg-gray-900 rounded-md border border-gray-300 overflow-hidden"
     >
-      <li v-for="article of articles" :key="article.slug">
+      <li v-for="article of articles" :key="article._id">
         <NuxtLink
-          :to="{ name: 'blog-slug', params: { slug: article.slug } }"
+          :to="{ name: 'blog-slug', params: { slug: $slug(article) } }"
           class="flex px-4 py-2 items-center leading-5 transition ease-in-out duration-150 text-green-500 hover:text-black"
         >
           {{ article.title }}
@@ -22,26 +22,27 @@
     </ul>
   </div>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      searchQuery: '',
-      articles: [],
+
+<script setup lang="ts">
+const searchQuery = ref('')
+// Todo (Nour): improve search; use `searchContent`
+const { data: articles } = await useAsyncData(
+  'search-articles',
+  () => {
+    if (!searchQuery.value) {
+      return []
     }
+    return queryContent('articles')
+      .where({ draft: { $ne: true } })
+      .where({ title: { $icontains: searchQuery.value } })
+      .without('body')
+      .sort({ date: -1 })
+      .limit(6)
+      .find()
   },
-  watch: {
-    async searchQuery(searchQuery) {
-      if (!searchQuery) {
-        this.articles = []
-        return
-      }
-      this.articles = await this.$content('articles')
-        .where({ draft: { $ne: true } })
-        .limit(6)
-        .search(searchQuery)
-        .fetch()
-    },
+  {
+    watch:
+      [searchQuery],
   },
-}
+)
 </script>

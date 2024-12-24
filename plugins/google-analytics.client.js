@@ -1,18 +1,13 @@
-import Vue from 'vue'
-import VueGtag from 'vue-gtag'
+import VueGtag, { trackRouter } from 'vue-gtag-next'
 
 // Todo: enable GDPR https://www.carlcassar.com/articles/add-google-analytics-to-a-nuxt-js-app/
-export default ({ app }) => {
-  Vue.use(
-    VueGtag,
-    {
-      config: { id: 'G-LW1E8NZE34' },
-      appName: 'BN_SPACE',
-      pageTrackerScreenviewEnabled: true,
-      // onReady: () => console.log('raady'),
-      // onError: () => console.log('onError'),
-      // onAfterTrack: () => console.log('onAfterTrack'),
+export default defineNuxtPlugin((nuxtApp) => {
+  nuxtApp.vueApp.use(VueGtag, {
+    isEnabled: process.env.NODE_ENV === 'production',
+    appName: 'BN_SPACE',
+    property: {
+      id: 'G-LW1E8NZE34',
     },
-    app.router,
-  )
-}
+  })
+  trackRouter(useRouter())
+})

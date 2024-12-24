@@ -9,11 +9,11 @@
       <NuxtLink to="/">
         <Logo />
       </NuxtLink>
-      <div class="mt-16 -mb-3 flex flex-col uppercase text-sm">
-        <h1 class="text-4xl font-bold">
+      <div class="mt-16 -mb-3 flex flex-col text-sm">
+        <h1 class="text-4xl font-bold text-shadow-xl">
           {{ articles[0].author.name }}
         </h1>
-        <p class="mb-4">{{ articles[0].author.bio }}</p>
+        <p class="bg-slate-800 bg-opacity-60 rounded-md p-4 text-shadow-xl text-lg">{{ articles[0].author.bio }}</p>
       </div>
     </div>
     <div
@@ -24,7 +24,7 @@
       <ul>
         <li v-for="article in articles" :key="article.slug" class="w-full px-2 xs:mb-6 md:mb-12 article-card">
           <NuxtLink
-            :to="{ name: 'blog-slug', params: { slug: article.slug } }"
+            :to="{ name: 'blog-slug', params: { slug: $slug(article) } }"
             class="flex transition-shadow duration-150 ease-in-out shadow-sm hover:shadow-md xxlmax:flex-col"
           >
             <img
@@ -38,7 +38,7 @@
               <h2 class="font-bold">{{ article.title }}</h2>
               <p>{{ article.description }}</p>
               <p class="font-bold text-gray-600 text-sm">
-                {{ $formatDate(article.updatedAt) }}
+                {{ $articleDate(article) }}
               </p>
             </div>
           </NuxtLink>
@@ -48,23 +48,10 @@
   </div>
 </template>
 
-<script>
-export default {
-  async asyncData({ $content, params }) {
-    const articles = await $content('articles')
-      .where({
-        draft: { $ne: true },
-        'author.name': {
-          $regex: [params.author, 'i'],
-        },
-      })
-      .without('body')
-      .sortBy('createdAt', 'asc')
-      .fetch()
-    return {
-      articles,
-    }
-  },
-  methods: {},
-}
+<script setup lang="ts">
+const route = useRoute();
+const { data: articles } = await useAsyncData(
+  "get-author-articles",
+  () => queryContent("articles").where({ "author.name": { $icontains: route.params.name } }).where({ draft: { $ne: true } }).without("body").sort({ date: -1 }).find()
+);
 </script>
